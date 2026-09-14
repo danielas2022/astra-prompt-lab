@@ -1,0 +1,31 @@
+{
+  "id": "win-001",
+  "title": "Photorealistic Dragon with Fire Breathing Effect",
+  "status": "win",
+  "source": "folk",
+  "source_url": "https://example.com/astra-experiments/dragon-001",
+  "prompt": "A highly detailed, photorealistic dragon with emerald scales breathing fire, standing on a rocky cliff at sunset, 8K resolution, cinematic lighting, volumetric fog effects, ray tracing",
+  "notes": "Generated on first attempt. The fire effects and scale textures came out exceptionally well. The lighting at sunset created dramatic rim lighting on the dragon's edges. Model accurately interpreted 'emerald scales' with realistic iridescence.",
+  "created_at": "2026-09-14T10:30:00Z",
+  "tags": [
+    "dragon",
+    "photorealistic",
+    "fire",
+    "creatures",
+    "fantasy",
+    "8k",
+    "lighting",
+    "first-attempt"
+  ],
+  "attribution": {
+    "name": "Example Creator",
+    "url": "https://github.com/example-user",
+    "license": "CC BY 4.0"
+  },
+  "model_version": "gpt-6-astra",
+  "parameters": {
+    "quality": "hd",
+    "style": "photorealistic"
+  },
+  "preview_url": "https://example.com/preview/dragon-001.png"
+}

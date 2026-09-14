@@ -1,0 +1,133 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/danielas2022/astra-prompt-lab/schema/case.schema.json",
+  "title": "Astra Prompt Case",
+  "description": "Schema for documenting Astra prompt experiments, including successes and failures",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "status",
+    "source",
+    "prompt",
+    "created_at",
+    "attribution"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for this case (e.g., 'win-001', 'fail-042', 'mixed-123')",
+      "pattern": "^(win|fail|mixed)-[0-9]{3,}$"
+    },
+    "title": {
+      "type": "string",
+      "description": "Brief descriptive title of the case",
+      "minLength": 5,
+      "maxLength": 200
+    },
+    "status": {
+      "type": "string",
+      "description": "Outcome status of the Astra generation",
+      "enum": ["win", "fail", "mixed"]
+    },
+    "source": {
+      "type": "string",
+      "description": "Origin of this case",
+      "enum": ["folk", "x", "spider", "openai", "other"]
+    },
+    "source_url": {
+      "type": "string",
+      "description": "URL to the original source (tweet, forum post, etc.)",
+      "format": "uri"
+    },
+    "prompt": {
+      "type": "string",
+      "description": "The actual prompt text sent to Astra",
+      "minLength": 1
+    },
+    "notes": {
+      "type": "string",
+      "description": "Additional observations, context, or insights about this case"
+    },
+    "failure_reason": {
+      "type": "string",
+      "description": "Required for status=fail or status=mixed: explanation of what went wrong",
+      "minLength": 10
+    },
+    "preview_url": {
+      "type": "string",
+      "description": "Optional URL to the generated 3D model preview or result image",
+      "format": "uri"
+    },
+    "created_at": {
+      "type": "string",
+      "description": "ISO 8601 timestamp when this case was documented",
+      "format": "date-time"
+    },
+    "tags": {
+      "type": "array",
+      "description": "Searchable keywords describing the case",
+      "items": {
+        "type": "string",
+        "minLength": 2
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "attribution": {
+      "type": "object",
+      "description": "Credit to the original creator of the prompt or case",
+      "required": ["name"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Name or handle of the original creator",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "description": "Link to creator's profile or website",
+          "format": "uri"
+        },
+        "license": {
+          "type": "string",
+          "description": "License under which the prompt was shared (if specified)"
+        }
+      }
+    },
+    "model_version": {
+      "type": "string",
+      "description": "GPT/Astra model version used (e.g., 'gpt-6-astra', 'gpt-6.5-astra')"
+    },
+    "parameters": {
+      "type": "object",
+      "description": "Additional generation parameters used (if applicable)",
+      "properties": {
+        "style": {
+          "type": "string"
+        },
+        "quality": {
+          "type": "string",
+          "enum": ["standard", "hd"]
+        },
+        "size": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "enum": ["fail", "mixed"]
+          }
+        }
+      },
+      "then": {
+        "required": ["failure_reason"]
+      }
+    }
+  ]
+}

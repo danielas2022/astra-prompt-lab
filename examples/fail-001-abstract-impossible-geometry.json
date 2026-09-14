@@ -1,0 +1,30 @@
+{
+  "id": "fail-001",
+  "title": "Impossible Penrose Triangle with Liquid Metal Surface",
+  "status": "fail",
+  "source": "folk",
+  "source_url": "https://example.com/astra-experiments/penrose-fail",
+  "prompt": "Create a Penrose triangle (impossible geometry) made of liquid mercury, constantly flowing upward while defying gravity, self-illuminated from within, floating in a void with M.C. Escher-style recursive patterns reflected in its surface",
+  "notes": "Attempted 3 times with variations. Astra consistently failed to maintain the impossible geometry constraint — generated standard triangular prisms instead. The 'liquid mercury' was interpreted as static metallic texture rather than flowing liquid. The recursive reflections were either absent or incoherent.",
+  "failure_reason": "Astra appears to struggle with impossible/non-Euclidean geometry. The model defaulted to physically plausible shapes (standard prism) rather than maintaining the Penrose paradox. Additionally, the dynamic element ('constantly flowing upward') was not captured in the static 3D output. The recursive pattern request may have been too abstract without clear visual references.",
+  "created_at": "2026-09-13T15:45:00Z",
+  "tags": [
+    "impossible-geometry",
+    "penrose-triangle",
+    "abstract",
+    "liquid-metal",
+    "escher",
+    "geometric-failure",
+    "non-euclidean",
+    "recursive-patterns"
+  ],
+  "attribution": {
+    "name": "Example Experimenter",
+    "url": "https://x.com/example_experimenter"
+  },
+  "model_version": "gpt-6-astra",
+  "parameters": {
+    "quality": "hd",
+    "style": "abstract"
+  }
+}
