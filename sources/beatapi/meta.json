@@ -1,0 +1,10 @@
+{
+  "source": "beatapi",
+  "name": "BeatAPI awesome-3d-prompts",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "description": "First-class integrated source for 3D prompt patterns",
+  "cadence": "on_update",
+  "lastSync": null,
+  "totalCases": 0,
+  "status": "pending_first_sync"
+}

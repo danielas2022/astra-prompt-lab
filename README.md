@@ -1,13 +1,27 @@
-# Astra Prompt Lab 🧪
+# astra-prompt-lab
 
-**GPT-6 Astra Prompt Field Lab**: A community-driven collection of **both successful and failed** Astra prompting cases, real-world integrations, and experimental findings.
+**GPT-6 Astra Prompt Field Lab**: Independent research repository aggregating wins, fails, and community patterns from multiple sources.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-## 🎯 Mission
+## Overview
 
-Astra Prompt Lab is an **experimental field lab** that collects real-world GPT-6 Astra prompting experiences — including **wins, failures, and mixed results**. We believe that learning from both successes and failures accelerates the community's understanding of what works (and what doesn't) with Astra's 3D generation capabilities.
+This repository aggregates and analyzes Astra (GPT-6) 3D generation prompts from multiple sources to identify patterns, failure modes, and best practices. It is **independent of official Tripo lists** and focuses on practical field research with **both successful and failed cases**.
+
+## Primary Sources
+
+We integrate prompts from three locked sources:
+
+1. **Tripo** — [TripoGrowthLab/awesome-astra-prompts](https://github.com/TripoGrowthLab/awesome-astra-prompts)  
+   Community-curated growth list (NOT product-official). Daily scan.
+
+2. **BeatAPI** — [BeatAPI/awesome-3d-prompts](https://github.com/BeatAPI/awesome-3d-prompts)  
+   First-class integrated source for 3D prompt patterns.
+
+3. **X/Twitter** — Real-world failure cases harvested from X (prioritized).
+
+See [`sources/README.md`](sources/README.md) for detailed source documentation.
 
 ## 🔬 How We Differ from Tripo's Awesome List
 
@@ -17,74 +31,85 @@ While [TripoGrowthLab/awesome-astra-prompts](https://github.com/TripoGrowthLab/a
 |---------|-------------------|------------------|
 | **Approach** | Curated good-only | Field lab with wins & fails |
 | **Content** | High-quality successful examples | Real-world mixed results |
-| **Sources** | Manual curation | Folk prompts, X/Twitter, Spider, community |
+| **Sources** | Manual curation | Three-source intake: Tripo + BeatAPI + X |
 | **Focus** | Showcase best practices | Learn from both success and failure |
 | **Update Frequency** | ~2×/day | Continuous intake from multiple sources |
 
 **We complement each other** — if you want proven prompts, check Tripo's list. If you want to understand edge cases, failure patterns, and experimental approaches, explore this lab.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 astra-prompt-lab/
-├── cases/
+├── sources/           # Intake source folders
+│   ├── tripo/        # TripoGrowthLab curated list (daily scan)
+│   ├── beatapi/      # BeatAPI awesome-3d-prompts (first-class integration)
+│   ├── x/            # X/Twitter failure cases (prioritized)
+│   ├── spider/       # Automation placeholder (future)
+│   └── folk/         # Community PR intake
+├── cases/            # Organized prompt cases
 │   ├── win/          # Successful Astra generation cases
 │   ├── fail/         # Failed attempts with lessons learned
 │   └── mixed/        # Cases with partial success
-├── sources/
-│   ├── folk/         # Community-contributed prompts
-│   ├── x/            # Curated from X/Twitter discussions
-│   ├── spider/       # Automated Spider intake
-│   └── openai/       # Placeholder for official OpenAI examples (future)
-├── schema/
-│   └── case.schema.json  # JSON Schema defining case format
+├── schema/           # JSON schemas for prompt cases
+│   └── case.schema.json
+├── docs/             # Documentation and intake guides
+│   ├── intake.md     # Intake process details
+│   └── examples.md   # Example cases
 ├── examples/         # Sample cases demonstrating the schema
 ├── CONTRIBUTING.md   # How to contribute cases
 └── CHANGELOG.md      # Project evolution
 ```
 
-## 📊 Case Schema
+## Schema
 
-Every case follows a structured JSON format defined in [`schema/case.schema.json`](schema/case.schema.json). Key fields include:
+All prompt cases follow a standardized JSON format defined in [`schema/case.schema.json`](schema/case.schema.json). Key fields include:
 
 - `id`: Unique identifier
-- `status`: `win` | `fail` | `mixed`
-- `prompt`: The actual Astra prompt used
-- `source`: Where this case originated (`folk`, `x`, `spider`, `openai`, `other`)
-- `failure_reason`: Required for failed/mixed cases
-- `attribution`: Credit to the original creator
+- `source`: Where this case originated (`tripo`, `beatapi`, `x`, `spider`, `folk`, `openai`, `other`)
+- `prompt`: The actual Astra prompt text
+- `status`: `success` | `fail` | `partial` | `unknown`
 - `tags`: Searchable keywords
+- `author`: Original creator attribution
+- `authorLink`: Link to creator profile
+- `upstreamUrl`: Source content link
 
-See [`examples/`](examples/) for complete sample cases.
+See [`examples/`](examples/) and [`docs/examples.md`](docs/examples.md) for complete sample cases.
 
-## 🤝 How to Contribute
+## Contributing
 
-We welcome contributions from the community! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+We welcome community contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 **Quick start:**
 1. Fork this repository
 2. Add your case following the schema in [`schema/case.schema.json`](schema/case.schema.json)
-3. Place it in the appropriate directory (`cases/win/`, `cases/fail/`, or `cases/mixed/`)
-4. Open a pull request with attribution to the original creator
+3. Submit to `sources/folk/cases/` with `source: "folk"`
+4. Open a pull request with proper attribution
 
-## ⚖️ Attribution & Ethics
+Direct PR contributions go into `sources/folk/`.
+
+## Attribution & Ethics
 
 - **Credit creators**: Always attribute the original prompt author
-- **No fake official branding**: This is a community project, not affiliated with OpenAI or Tripo
+- **No fake official branding**: This is a community project, not affiliated with OpenAI, Tripo, or BeatAPI
 - **Honest reporting**: Share real results, including failures
-- **Respect IP**: Don't copy Tripo's curated content wholesale
+- **Respect IP**: Upstream content retains original licenses and attributions
 
-## 🔗 Related Resources
+## Related Resources
 
 - **Companion site**: [astra3d.app](https://astra3d.app) (affiliate to Tripo Studio via=3dpro)
 - **Official Astra docs**: [OpenAI Astra documentation](https://platform.openai.com/docs/models/gpt-6)
-- **Tripo's curated list**: [awesome-astra-prompts](https://github.com/TripoGrowthLab/awesome-astra-prompts)
+- **Tripo's curated list**: [TripoGrowthLab/awesome-astra-prompts](https://github.com/TripoGrowthLab/awesome-astra-prompts)
+- **BeatAPI's 3D prompts**: [BeatAPI/awesome-3d-prompts](https://github.com/BeatAPI/awesome-3d-prompts)
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE) — see the LICENSE file for details.
 
-## 🌟 Support the Project
+This lab structure and tooling: MIT  
+Upstream content: Retains original licenses (see individual case attributions)
+
+## Support the Project
 
 If you find this lab useful, please:
 - ⭐ Star the repository
@@ -94,4 +119,4 @@ If you find this lab useful, please:
 
 ---
 
-**Disclaimer**: This is an independent community project. We are not affiliated with OpenAI, Tripo, or any official Astra program. All trademarks belong to their respective owners.
+**Disclaimer**: This is an independent community project. We are not affiliated with OpenAI, Tripo, BeatAPI, or any official Astra program. All trademarks belong to their respective owners.
