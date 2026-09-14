@@ -1,0 +1,32 @@
+{
+  "id": "mixed-001",
+  "title": "Cyberpunk Character in Neon-lit Tokyo Alley",
+  "status": "mixed",
+  "source": "x",
+  "source_url": "https://x.com/astra_explorer/status/1234567890",
+  "prompt": "A female cyberpunk character with purple hair and LED-embedded jacket, standing in a narrow Tokyo alley at night, surrounded by holographic advertisements in Japanese, neon signs reflecting on wet pavement, steam rising from grates, Blade Runner aesthetic",
+  "notes": "The character model was excellent — high detail on clothing, hair, and proportions. However, the environmental elements had significant issues. The holographic advertisements appeared as flat textures rather than 3D holograms. The neon reflections on the pavement were inconsistent (only appeared on some surfaces). Steam effects were completely missing. Overall composition was good, but atmospheric details failed to materialize.",
+  "failure_reason": "Environmental effects and atmospheric details were not properly generated. Specifically: (1) Holographic advertisements rendered as 2D posters instead of volumetric holograms. (2) Selective reflection mapping — neon signs only reflected on character's jacket, not on ground as requested. (3) Steam/fog effects were entirely absent despite being explicitly mentioned. The model seems to prioritize character detail over environmental/atmospheric elements when both are present in complex scenes.",
+  "created_at": "2026-09-12T22:10:00Z",
+  "tags": [
+    "cyberpunk",
+    "character",
+    "environment",
+    "neon",
+    "tokyo",
+    "hologram-failure",
+    "partial-success",
+    "blade-runner",
+    "atmospheric-effects"
+  ],
+  "attribution": {
+    "name": "@astra_explorer",
+    "url": "https://x.com/astra_explorer"
+  },
+  "model_version": "gpt-6-astra",
+  "parameters": {
+    "quality": "hd",
+    "style": "cinematic"
+  },
+  "preview_url": "https://example.com/preview/cyberpunk-mixed.png"
+}
