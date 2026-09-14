@@ -1,0 +1,11 @@
+{
+  "source": "x",
+  "name": "X/Twitter Harvest",
+  "platform": "X (Twitter)",
+  "description": "Real-world failure cases prioritized",
+  "cadence": "continuous",
+  "priority": "status=fail",
+  "lastHarvest": null,
+  "totalCases": 0,
+  "status": "pending_first_harvest"
+}

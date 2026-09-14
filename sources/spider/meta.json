@@ -1,0 +1,7 @@
+{
+  "source": "spider",
+  "name": "Spider Automation Layer",
+  "description": "Generic crawler and automation infrastructure placeholder",
+  "status": "inactive",
+  "totalCases": 0
+}

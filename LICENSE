@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Astra Prompt Lab Contributors
+Copyright (c) 2026 astra-prompt-lab contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+UPSTREAM CONTENT ATTRIBUTION
+
+This repository aggregates content from upstream sources:
+- TripoGrowthLab/awesome-astra-prompts (https://github.com/TripoGrowthLab/awesome-astra-prompts)
+- BeatAPI/awesome-3d-prompts (https://github.com/BeatAPI/awesome-3d-prompts)
+- X/Twitter posts (with attribution)
+
+Upstream content retains its original licenses and attributions.
+See individual case files for specific author credits and source links.
+
+This MIT license applies only to:
+- The repository structure and tooling
+- Documentation and guides
+- Schema definitions
+- Automation scripts

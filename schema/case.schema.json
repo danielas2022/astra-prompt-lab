@@ -2,22 +2,14 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://github.com/danielas2022/astra-prompt-lab/schema/case.schema.json",
   "title": "Astra Prompt Case",
-  "description": "Schema for documenting Astra prompt experiments, including successes and failures",
+  "description": "Schema for Astra (GPT-6) 3D generation prompt cases, documenting successes and failures",
   "type": "object",
-  "required": [
-    "id",
-    "title",
-    "status",
-    "source",
-    "prompt",
-    "created_at",
-    "attribution"
-  ],
+  "required": ["id", "source", "prompt", "status"],
   "properties": {
     "id": {
       "type": "string",
-      "description": "Unique identifier for this case (e.g., 'win-001', 'fail-042', 'mixed-123')",
-      "pattern": "^(win|fail|mixed)-[0-9]{3,}$"
+      "description": "Unique identifier for this case",
+      "pattern": "^[a-z0-9-]+$"
     },
     "title": {
       "type": "string",
@@ -25,59 +17,107 @@
       "minLength": 5,
       "maxLength": 200
     },
-    "status": {
-      "type": "string",
-      "description": "Outcome status of the Astra generation",
-      "enum": ["win", "fail", "mixed"]
-    },
     "source": {
       "type": "string",
-      "description": "Origin of this case",
-      "enum": ["folk", "x", "spider", "openai", "other"]
-    },
-    "source_url": {
-      "type": "string",
-      "description": "URL to the original source (tweet, forum post, etc.)",
-      "format": "uri"
+      "description": "Source of this prompt case",
+      "enum": [
+        "tripo",
+        "beatapi",
+        "x",
+        "spider",
+        "folk",
+        "openai",
+        "other"
+      ]
     },
     "prompt": {
       "type": "string",
-      "description": "The actual prompt text sent to Astra",
+      "description": "The Astra prompt text",
       "minLength": 1
     },
-    "notes": {
+    "status": {
       "type": "string",
-      "description": "Additional observations, context, or insights about this case"
-    },
-    "failure_reason": {
-      "type": "string",
-      "description": "Required for status=fail or status=mixed: explanation of what went wrong",
-      "minLength": 10
-    },
-    "preview_url": {
-      "type": "string",
-      "description": "Optional URL to the generated 3D model preview or result image",
-      "format": "uri"
-    },
-    "created_at": {
-      "type": "string",
-      "description": "ISO 8601 timestamp when this case was documented",
-      "format": "date-time"
+      "description": "Success or failure status",
+      "enum": ["success", "fail", "partial", "unknown"]
     },
     "tags": {
       "type": "array",
-      "description": "Searchable keywords describing the case",
+      "description": "Categorization tags",
       "items": {
-        "type": "string",
-        "minLength": 2
+        "type": "string"
       },
-      "minItems": 1,
       "uniqueItems": true
+    },
+    "category": {
+      "type": "string",
+      "description": "Primary category",
+      "examples": ["character", "environment", "object", "abstract"]
+    },
+    "author": {
+      "type": "string",
+      "description": "Original author name or handle"
+    },
+    "authorLink": {
+      "type": "string",
+      "format": "uri",
+      "description": "Link to author profile or source"
+    },
+    "upstreamUrl": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to original upstream content"
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to the original source (tweet, forum post, etc.)"
+    },
+    "imageUrl": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to generated image (if available)"
+    },
+    "modelUrl": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to generated 3D model (if available)"
+    },
+    "preview_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Optional URL to the generated 3D model preview or result image"
+    },
+    "notes": {
+      "type": "string",
+      "description": "Additional notes or observations"
+    },
+    "failureReason": {
+      "type": "string",
+      "description": "Reason for failure (if status=fail or partial)"
+    },
+    "failure_reason": {
+      "type": "string",
+      "description": "Required for status=fail or status=partial: explanation of what went wrong",
+      "minLength": 10
+    },
+    "createdAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Case creation timestamp"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when this case was documented"
+    },
+    "updatedAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Case last updated timestamp"
     },
     "attribution": {
       "type": "object",
       "description": "Credit to the original creator of the prompt or case",
-      "required": ["name"],
       "properties": {
         "name": {
           "type": "string",
@@ -114,6 +154,11 @@
           "type": "string"
         }
       }
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Additional source-specific metadata",
+      "additionalProperties": true
     }
   },
   "allOf": [
@@ -121,12 +166,15 @@
       "if": {
         "properties": {
           "status": {
-            "enum": ["fail", "mixed"]
+            "enum": ["fail", "partial"]
           }
         }
       },
       "then": {
-        "required": ["failure_reason"]
+        "anyOf": [
+          { "required": ["failureReason"] },
+          { "required": ["failure_reason"] }
+        ]
       }
     }
   ]
