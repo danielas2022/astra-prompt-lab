@@ -4,7 +4,12 @@
   "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
   "description": "First-class integrated source for 3D prompt patterns",
   "cadence": "on_update",
-  "lastSync": null,
-  "totalCases": 0,
-  "status": "pending_first_sync"
+  "lastSync": "2026-09-15T13:35:46.540Z",
+  "totalCases": 306,
+  "status": "synced",
+  "upstream": {
+    "commit": "ac37217",
+    "totalPrompts": 306,
+    "syncedAt": "2026-09-15T13:35:46.540Z"
+  }
 }

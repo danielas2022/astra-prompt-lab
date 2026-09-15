@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-just-took-on-the-exact-same-threejs-ramayana-inspired-948547",
+  "title": "GPT-6 Astra just took on the exact same @threejs  Ramayana inspired prompt I used to test Fable 5.1.",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astra just took on the exact same @threejs Ramayana inspired prompt I used to test Fable 5.1.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Build Fast with AI",
+  "authorLink": "https://x.com/BuildFastWithAI",
+  "source_url": "https://x.com/BuildFastWithAI/status/2096150942894948547",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-just-took-on-the-exact-same-threejs-ramayana-inspired-948547/poster-2b96f7166bbd.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-just-took-on-the-exact-same-threejs-ramayana-inspired-948547/video-2384124dbed0.webm",
+  "imageUrl": "https://x.com/BuildFastWithAI/status/2096150942894948547",
+  "created_at": "2026-09-05T08:18:24.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096150942894948547",
+    "beatapi_slug": "gpt-6-astra-just-took-on-the-exact-same-threejs-ramayana-inspired-948547",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

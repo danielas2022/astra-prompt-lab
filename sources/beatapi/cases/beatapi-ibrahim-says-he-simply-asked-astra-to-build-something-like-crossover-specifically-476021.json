@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-ibrahim-says-he-simply-asked-astra-to-build-something-like-crossover-specifically-476021",
+  "title": "Ibrahim says he simply asked Astra to build something like CrossOver specifically to run AoE4 on",
+  "source": "beatapi",
+  "prompt": "Ibrahim says he simply asked Astra to build something like CrossOver specifically to run AoE4 on Mac, since fps was very low.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "AGTP",
+  "authorLink": "https://x.com/AGTPinsights",
+  "source_url": "https://x.com/AGTPinsights/status/2096422381560476021",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/ibrahim-says-he-simply-asked-astra-to-build-something-like-crossover-specifically-476021/image-afaef50dc7d1.webp",
+  "imageUrl": "https://x.com/AGTPinsights/status/2096422381560476021",
+  "created_at": "2026-09-06T02:17:00.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096422381560476021",
+    "beatapi_slug": "ibrahim-says-he-simply-asked-astra-to-build-something-like-crossover-specifically-476021",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

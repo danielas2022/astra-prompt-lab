@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-is-crazy-good-at-building-games-725310",
+  "title": "GPT-6 Astra is crazy good at building games",
+  "source": "beatapi",
+  "prompt": "It just turned ONE prompt into a playable FPS game.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Bero.x2",
+  "authorLink": "https://x.com/Moonlitscrolls_",
+  "source_url": "https://x.com/Moonlitscrolls_/status/2095957460779725310",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-crazy-good-at-building-games-725310/poster-b6f206abac8c.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-crazy-good-at-building-games-725310/video-8c4ddaddf47d.webm",
+  "imageUrl": "https://x.com/Moonlitscrolls_/status/2095957460779725310",
+  "created_at": "2026-09-04T19:29:34.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095957460779725310",
+    "beatapi_slug": "gpt-6-astra-is-crazy-good-at-building-games-725310",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

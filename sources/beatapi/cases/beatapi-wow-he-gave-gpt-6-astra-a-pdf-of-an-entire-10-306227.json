@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-wow-he-gave-gpt-6-astra-a-pdf-of-an-entire-10-306227",
+  "title": "wow... He gave GPT-6 Astra a PDF of an entire 10-acre estate…",
+  "source": "beatapi",
+  "prompt": "He gave GPT-6 Astra a PDF of an entire 10-acre estate…\nIt recreated the estate in Blender, then added it as a playable map in the Call of Duty-style game he’d built the day before.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Agent Native",
+  "authorLink": "https://x.com/agentnative_",
+  "source_url": "https://x.com/agentnative_/status/2097089225510306227",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/wow-he-gave-gpt-6-astra-a-pdf-of-an-entire-10-306227/poster-20ee34c736f2.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/wow-he-gave-gpt-6-astra-a-pdf-of-an-entire-10-306227/video-f21dc0005147.webm",
+  "imageUrl": "https://x.com/agentnative_/status/2097089225510306227",
+  "created_at": "2026-09-07T22:26:48.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097089225510306227",
+    "beatapi_slug": "wow-he-gave-gpt-6-astra-a-pdf-of-an-entire-10-306227",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-generated-this-blender-scene-with-the-alien-from-hail-881355",
+  "title": "GPT-6 Astra generated this Blender scene with the alien from Hail Mary - Rocky in one prompt!",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astra generated this Blender scene with the alien from Hail Mary - Rocky in one prompt!",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Yevhen Kondrashyn",
+  "authorLink": "https://x.com/ykondrashyn",
+  "source_url": "https://x.com/ykondrashyn/status/2096152050815881355",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-generated-this-blender-scene-with-the-alien-from-hail-881355/poster-ddfa2d2460bd.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-generated-this-blender-scene-with-the-alien-from-hail-881355/video-69b059d3f1e8.webm",
+  "imageUrl": "https://x.com/ykondrashyn/status/2096152050815881355",
+  "created_at": "2026-09-05T08:22:48.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096152050815881355",
+    "beatapi_slug": "gpt-6-astra-generated-this-blender-scene-with-the-alien-from-hail-881355",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

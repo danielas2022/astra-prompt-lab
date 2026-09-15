@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-is-incredible-at-3d-animation-054754",
+  "title": "GPT-6 Astra is incredible at 3D animation.",
+  "source": "beatapi",
+  "prompt": "I made this entire scene in Blender from 1 text prompt.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Yigit Kirca",
+  "authorLink": "https://x.com/kircastudio",
+  "source_url": "https://x.com/kircastudio/status/2096933468257054754",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-incredible-at-3d-animation-054754/poster-04e41d87c1aa.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-incredible-at-3d-animation-054754/video-07dbc79a851b.webm",
+  "imageUrl": "https://x.com/kircastudio/status/2096933468257054754",
+  "created_at": "2026-09-07T12:07:52.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096933468257054754",
+    "beatapi_slug": "gpt-6-astra-is-incredible-at-3d-animation-054754",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

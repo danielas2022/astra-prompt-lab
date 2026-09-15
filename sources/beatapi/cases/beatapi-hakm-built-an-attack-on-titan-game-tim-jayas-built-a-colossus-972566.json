@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-hakm-built-an-attack-on-titan-game-tim-jayas-built-a-colossus-972566",
+  "title": "Hakm built an Attack on Titan game, Tim Jayas built a colossus battle game, and Aniket J used As",
+  "source": "beatapi",
+  "prompt": "Hakm built an Attack on Titan game, Tim Jayas built a colossus battle game, and Aniket J used Astra to build a Pacific Rim style mecha battle game from one prompt.",
+  "status": "unknown",
+  "tags": [],
+  "category": "game-engines",
+  "author": "AGTP",
+  "authorLink": "https://x.com/AGTPinsights",
+  "source_url": "https://x.com/AGTPinsights/status/2096067071670972566",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/hakm-built-an-attack-on-titan-game-tim-jayas-built-a-colossus-972566/image-6944458c20ef.webp",
+  "imageUrl": "https://x.com/AGTPinsights/status/2096067071670972566",
+  "created_at": "2026-09-05T02:45:07.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096067071670972566",
+    "beatapi_slug": "hakm-built-an-attack-on-titan-game-tim-jayas-built-a-colossus-972566",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

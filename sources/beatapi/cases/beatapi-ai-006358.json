@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-ai-006358",
+  "title": "【AIアニメ制作共有①】",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astraとblenderで街を作ってみた！",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "MiraMusic",
+  "authorLink": "https://x.com/MiraMusic_AI",
+  "source_url": "https://x.com/MiraMusic_AI/status/2096441679847006358",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/ai-006358/poster-eacc5cd96bd5.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/ai-006358/video-f79ef2247a15.webm",
+  "imageUrl": "https://x.com/MiraMusic_AI/status/2096441679847006358",
+  "created_at": "2026-09-06T03:33:41.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096441679847006358",
+    "beatapi_slug": "ai-006358",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

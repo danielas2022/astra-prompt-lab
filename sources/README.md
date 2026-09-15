@@ -4,23 +4,26 @@ This directory organizes intake workflows for different content sources feeding 
 
 ## Primary Sources
 
-### 1. Tripo (`tripo/`)
+### Tripo (`tripo/`)
 - **Repo**: https://github.com/TripoGrowthLab/awesome-astra-prompts
 - **Type**: Community-curated growth list (NOT product-official)
 - **Cadence**: Daily scan
 - **Focus**: Curated prompt examples and best practices
+- **Status**: ✅ Synced (96 cases, commit d8c06f4)
 
-### 2. BeatAPI (`beatapi/`)
+### BeatAPI (`beatapi/`)
 - **Repo**: https://github.com/BeatAPI/awesome-3d-prompts
 - **Type**: First-class integrated source
 - **Cadence**: Regular sync
 - **Focus**: 3D prompt patterns and techniques
+- **Status**: ✅ Synced (306 cases, commit ac37217)
 
-### 3. X/Twitter (`x/`)
+### X/Twitter (`x/`)
 - **Platform**: X/Twitter
 - **Priority**: FAILURE cases (status=fail)
 - **Focus**: Real-world failures and edge cases for research
 - **Method**: Manual curation of interesting Astra prompt discussions
+- **Status**: ⏳ Empty first pass (no discrete fail cases found yet)
 
 ## Optional/Future Sources
 

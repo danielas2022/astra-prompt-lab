@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-to-test-gpt-6-astra-i-created-an-interactive-3d-assembly-demo-622064",
+  "title": "To test GPT-6 Astra, I created an interactive 3D assembly demo of the Tesla Model X using it.",
+  "source": "beatapi",
+  "prompt": "To test GPT-6 Astra, I created an interactive 3D assembly demo of the Tesla Model X using it.",
+  "status": "unknown",
+  "tags": [],
+  "category": "product-visualization",
+  "author": "Benlee星球观察室",
+  "authorLink": "https://x.com/Bennydury",
+  "source_url": "https://x.com/Bennydury/status/2096797928698622064",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/to-test-gpt-6-astra-i-created-an-interactive-3d-assembly-demo-622064/poster-24dc6cbe96ae.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/to-test-gpt-6-astra-i-created-an-interactive-3d-assembly-demo-622064/video-8627b669364e.webm",
+  "imageUrl": "https://x.com/Bennydury/status/2096797928698622064",
+  "created_at": "2026-09-07T03:09:17.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096797928698622064",
+    "beatapi_slug": "to-test-gpt-6-astra-i-created-an-interactive-3d-assembly-demo-622064",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

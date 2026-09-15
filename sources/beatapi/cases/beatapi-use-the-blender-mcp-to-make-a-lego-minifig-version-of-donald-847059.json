@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-use-the-blender-mcp-to-make-a-lego-minifig-version-of-donald-847059",
+  "title": "Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asse",
+  "source": "beatapi",
+  "prompt": "Use the Blender MCP to make a LEGO minifig version of Donald Trump that I can use as a game asset. Make this exceptional quality, AAA game, and pressure test your work to make sure that it's detailed and accurate and excellent.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Simon Smith",
+  "authorLink": "https://x.com/_simonsmith",
+  "source_url": "https://x.com/_simonsmith/status/2096766465730847059",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/use-the-blender-mcp-to-make-a-lego-minifig-version-of-donald-847059/poster-cb8eb022f18f.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/use-the-blender-mcp-to-make-a-lego-minifig-version-of-donald-847059/video-0e4834adbe5c.webm",
+  "imageUrl": "https://x.com/_simonsmith/status/2096766465730847059",
+  "created_at": "2026-09-07T01:04:16.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096766465730847059",
+    "beatapi_slug": "use-the-blender-mcp-to-make-a-lego-minifig-version-of-donald-847059",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

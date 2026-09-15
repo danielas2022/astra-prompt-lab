@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-create-a-fighting-game-character-that-239093",
+  "title": "I asked GPT-6 Astra to create a fighting game character that is 'skillful' and 'has to think abo",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to create a fighting game character that is 'skillful' and 'has to think about their gameplan', then went to sleep.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "yumi!",
+  "authorLink": "https://x.com/yumigoeszoomi",
+  "source_url": "https://x.com/yumigoeszoomi/status/2096793546003239093",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-create-a-fighting-game-character-that-239093/image-fe0f3e5e3ac4.webp",
+  "imageUrl": "https://x.com/yumigoeszoomi/status/2096793546003239093",
+  "created_at": "2026-09-07T02:51:52.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096793546003239093",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-create-a-fighting-game-character-that-239093",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

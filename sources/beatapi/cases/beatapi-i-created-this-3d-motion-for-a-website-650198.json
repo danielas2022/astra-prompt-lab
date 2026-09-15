@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-created-this-3d-motion-for-a-website-650198",
+  "title": "I created this 3D motion for a website",
+  "source": "beatapi",
+  "prompt": "I created this 3D motion for a website.",
+  "status": "unknown",
+  "tags": [],
+  "category": "product-visualization",
+  "author": "Dmitry🍀 | AI Visuals",
+  "authorLink": "https://x.com/DmitryEdit",
+  "source_url": "https://x.com/DmitryEdit/status/2096918983647650198",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-created-this-3d-motion-for-a-website-650198/poster-6cf2be8d73a1.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-created-this-3d-motion-for-a-website-650198/video-06ee2762197d.webm",
+  "imageUrl": "https://x.com/DmitryEdit/status/2096918983647650198",
+  "created_at": "2026-09-07T11:10:19.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096918983647650198",
+    "beatapi_slug": "i-created-this-3d-motion-for-a-website-650198",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

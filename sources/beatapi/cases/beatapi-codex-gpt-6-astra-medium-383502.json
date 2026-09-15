@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-codex-gpt-6-astra-medium-383502",
+  "title": "遊んでる時間がなくて、想定しないCodexリセットが活用できないのが悔しくて、GPT-6 Astra（Medium）の検証で以下のプロンプトを実行してみた。うーん、ソツがない。",
+  "source": "beatapi",
+  "prompt": "『img2threejs/img2threejs を使って、立体的なSkyrimにあるような村の地形を作って。参考画像は自分で作ってください。』",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Kichitaro (Kichi Shotaro)",
+  "authorLink": "https://x.com/TaroKichijo",
+  "source_url": "https://x.com/TaroKichijo/status/2097167383576383502",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/codex-gpt-6-astra-medium-383502/image-a607396c2d9a.webp",
+  "imageUrl": "https://x.com/TaroKichijo/status/2097167383576383502",
+  "created_at": "2026-09-08T03:37:22.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097167383576383502",
+    "beatapi_slug": "codex-gpt-6-astra-medium-383502",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

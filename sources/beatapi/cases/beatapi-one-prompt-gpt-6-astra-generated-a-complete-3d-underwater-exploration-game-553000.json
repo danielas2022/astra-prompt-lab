@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-one-prompt-gpt-6-astra-generated-a-complete-3d-underwater-exploration-game-553000",
+  "title": "One prompt GPT-6 Astra Generated A complete 3D underwater exploration game: swimming, ruins, obj",
+  "source": "beatapi",
+  "prompt": "One prompt GPT-6 Astra Generated A complete 3D underwater exploration game: swimming, ruins, objectives, UI, custom 3D assets, and original sound.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Md Ismail Šojal 🕷️",
+  "authorLink": "https://x.com/0x0SojalSec",
+  "source_url": "https://x.com/0x0SojalSec/status/2095642771193553000",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-gpt-6-astra-generated-a-complete-3d-underwater-exploration-game-553000/poster-28d2b878b123.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-gpt-6-astra-generated-a-complete-3d-underwater-exploration-game-553000/video-9a372e413f3e.webm",
+  "imageUrl": "https://x.com/0x0SojalSec/status/2095642771193553000",
+  "created_at": "2026-09-03T22:39:06.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095642771193553000",
+    "beatapi_slug": "one-prompt-gpt-6-astra-generated-a-complete-3d-underwater-exploration-game-553000",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

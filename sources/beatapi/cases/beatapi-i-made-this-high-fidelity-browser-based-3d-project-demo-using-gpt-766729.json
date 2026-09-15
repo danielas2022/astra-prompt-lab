@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-made-this-high-fidelity-browser-based-3d-project-demo-using-gpt-766729",
+  "title": "I made this high-fidelity browser-based 3D project demo using GPT-6 Astra in web chat mode.",
+  "source": "beatapi",
+  "prompt": "I made this high-fidelity browser-based 3D project demo using GPT-6 Astra in web chat mode.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "shiguaqi",
+  "authorLink": "https://x.com/shiguaqi1001",
+  "source_url": "https://x.com/shiguaqi1001/status/2096032353059766729",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-made-this-high-fidelity-browser-based-3d-project-demo-using-gpt-766729/poster-015819610fa6.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-made-this-high-fidelity-browser-based-3d-project-demo-using-gpt-766729/video-7061d15afb43.webm",
+  "imageUrl": "https://x.com/shiguaqi1001/status/2096032353059766729",
+  "created_at": "2026-09-05T00:27:10.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096032353059766729",
+    "beatapi_slug": "i-made-this-high-fidelity-browser-based-3d-project-demo-using-gpt-766729",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

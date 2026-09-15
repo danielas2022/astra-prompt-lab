@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-max-one-shot-recreate-multiplayer-garys-mod-dark-rp-263195",
+  "title": "GPT-6 Astra Max One Shot: Recreate multiplayer garys mod dark rp in 3js as accurately as you can",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astra Max One Shot: Recreate multiplayer garys mod dark rp in 3js as accurately as you can.\ndeploy it to https://t.co/H409StcJDD, use my browser, make it ready for launch, remove server player cap, make a video for my x post that will make people want to engage and play the game.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Devan Metz",
+  "authorLink": "https://x.com/devanmetz",
+  "source_url": "https://x.com/devanmetz/status/2096994663970263195",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-max-one-shot-recreate-multiplayer-garys-mod-dark-rp-263195/poster-5a0545a53ac3.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-max-one-shot-recreate-multiplayer-garys-mod-dark-rp-263195/video-25dd76f72f65.webm",
+  "imageUrl": "https://x.com/devanmetz/status/2096994663970263195",
+  "created_at": "2026-09-07T16:11:02.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096994663970263195",
+    "beatapi_slug": "gpt-6-astra-max-one-shot-recreate-multiplayer-garys-mod-dark-rp-263195",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-asked-gpt-6-astra-to-build-an-interactive-3d-visualization-of-a-028703",
+  "title": "Asked GPT-6 Astra to build an interactive 3D visualization of a V8 engine.",
+  "source": "beatapi",
+  "prompt": "Asked GPT-6 Astra to build an interactive 3D visualization of a V8 engine.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Dhruv",
+  "authorLink": "https://x.com/HeyDhruvv",
+  "source_url": "https://x.com/HeyDhruvv/status/2096441229341028703",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-build-an-interactive-3d-visualization-of-a-028703/poster-e1ecd05e7217.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-build-an-interactive-3d-visualization-of-a-028703/video-75942cdd7848.webm",
+  "imageUrl": "https://x.com/HeyDhruvv/status/2096441229341028703",
+  "created_at": "2026-09-06T03:31:53.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096441229341028703",
+    "beatapi_slug": "asked-gpt-6-astra-to-build-an-interactive-3d-visualization-of-a-028703",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

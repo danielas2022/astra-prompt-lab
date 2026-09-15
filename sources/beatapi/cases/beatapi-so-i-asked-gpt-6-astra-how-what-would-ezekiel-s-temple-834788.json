@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-so-i-asked-gpt-6-astra-how-what-would-ezekiel-s-temple-834788",
+  "title": "so I asked GPT-6 Astra how What would Ezekiel’s temple vision look like in 3D?",
+  "source": "beatapi",
+  "prompt": "so I asked GPT-6 Astra how What would Ezekiel’s temple vision look like in 3D?",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "KrixAi",
+  "authorLink": "https://x.com/KrixOnok",
+  "source_url": "https://x.com/KrixOnok/status/2096547658164834788",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/so-i-asked-gpt-6-astra-how-what-would-ezekiel-s-temple-834788/image-ade32ded227e.webp",
+  "imageUrl": "https://x.com/KrixOnok/status/2096547658164834788",
+  "created_at": "2026-09-06T10:34:48.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096547658164834788",
+    "beatapi_slug": "so-i-asked-gpt-6-astra-how-what-would-ezekiel-s-temple-834788",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

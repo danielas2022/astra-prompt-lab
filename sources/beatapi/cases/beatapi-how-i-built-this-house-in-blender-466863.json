@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-how-i-built-this-house-in-blender-466863",
+  "title": "How I built this house in Blender 🏠",
+  "source": "beatapi",
+  "prompt": "Build an editable Blender scene through Blender Python API (bpy) based on the reference video. Recreate the architecture, joinery, furniture, planting, materials, lights, and cameras, and make everything match the reference as closely as possible.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "AiSongMan｜AI Workflow Lab",
+  "authorLink": "https://x.com/aisongman",
+  "source_url": "https://x.com/aisongman/status/2096876083094466863",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/how-i-built-this-house-in-blender-466863/poster-6bbb443a6afe.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/how-i-built-this-house-in-blender-466863/video-47fd53a05e6a.webm",
+  "imageUrl": "https://x.com/aisongman/status/2096876083094466863",
+  "created_at": "2026-09-07T08:19:50.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096876083094466863",
+    "beatapi_slug": "how-i-built-this-house-in-blender-466863",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

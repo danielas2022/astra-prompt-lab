@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-i-told-gpt-6-astra-to-model-me-an-a-4-skyhawk-645638",
+  "title": "I told GPT-6-Astra to model me an A-4 Skyhawk with the Blender MCP.",
+  "source": "beatapi",
+  "prompt": "I told GPT-6-Astra to model me an A-4 Skyhawk with the Blender MCP.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "ZD1908",
+  "authorLink": "https://x.com/ZDi____",
+  "source_url": "https://x.com/ZDi____/status/2097093409546645638",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-told-gpt-6-astra-to-model-me-an-a-4-skyhawk-645638/image-66e7ffba8cb8.webp",
+  "imageUrl": "https://x.com/ZDi____/status/2097093409546645638",
+  "created_at": "2026-09-07T22:43:25.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097093409546645638",
+    "beatapi_slug": "i-told-gpt-6-astra-to-model-me-an-a-4-skyhawk-645638",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

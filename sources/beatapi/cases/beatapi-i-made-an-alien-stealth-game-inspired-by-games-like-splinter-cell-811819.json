@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-made-an-alien-stealth-game-inspired-by-games-like-splinter-cell-811819",
+  "title": "I made an alien stealth game inspired by games like Splinter Cell, the Batman: Arkham series, th",
+  "source": "beatapi",
+  "prompt": "I made an alien stealth game inspired by games like Splinter Cell, the Batman: Arkham series, the Arkane games, and of course Destroy All Humans.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Kaleb E.",
+  "authorLink": "https://x.com/sleazer74",
+  "source_url": "https://x.com/sleazer74/status/2097218512376811819",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-made-an-alien-stealth-game-inspired-by-games-like-splinter-cell-811819/poster-9945435cba1c.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-made-an-alien-stealth-game-inspired-by-games-like-splinter-cell-811819/video-88664383db39.webm",
+  "imageUrl": "https://x.com/sleazer74/status/2097218512376811819",
+  "created_at": "2026-09-08T07:00:32.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097218512376811819",
+    "beatapi_slug": "i-made-an-alien-stealth-game-inspired-by-games-like-splinter-cell-811819",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

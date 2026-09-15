@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-create-a-visually-spectacular-highly-polished-3d-sonic-the-hedgehog-vertical-slice-536086",
+  "title": "Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do",
+  "source": "beatapi",
+  "prompt": "Create a visually spectacular, highly polished 3D Sonic the Hedgehog vertical slice in Godot. Do not use web search, external downloads, online assets, or internet resources. Build everything using only locally available tools, assets, and procedural/original content.\n\nSonic must be immediately recognizable: cobalt-blue quills, connected eyes, tan muzzle/torso, white gloves, oversized red shoes with white straps, compact athletic proportions, swept-back quills, expressive animation, iconic running posture, and spin form. Prioritize a polished character model, strong materials, expressive animation, smooth blending, and excellent lighting.\n\nFocus the entire game on speed, momentum, responsive controls, and fluid traversal. Include high-speed running, acceleration, drifting, jumping, homing attacks, spin dash, rolling, boost-style acceleration, springs, dash pads, grind rails, loops, wall-running, ramps, launch sequences, enemies that can be chained with homing attacks, and rings placed along ideal racing lines. Preserve momentum and avoid sticky collisions or unnecessary stops.\n\nCreate one exceptional tropical coastal level rather than several smaller ones. Include ocean vistas, waterfalls, green cliffs, palms, flowers, checker-patterned rock, ruins, caves, loops, rails, bridges, tunnels, beaches, and dramatic vertical terrain. The world should feel large and continuous, with multiple routes and higher-skill shortcuts.\n\nStructure the level around memorable moments:\n- Cliffside opening overlooking the level\n- Long downhill acceleration section\n- Giant loop and corkscrew\n- Rail grinding above the ocean\n- Airborne homing-attack chain\n- Cave or ancient-ruin section\n- Vertical wall run\n- Huge waterfall jump\n- Final high-speed sprint\n\nMake speed feel spectacular with restrained speed lines, wind trails, particles, grass/dust effects, camera banking, subtle FOV expansion, environmental reactions, and readable motion effects. Sonic's animation should evolve naturally from jogging into an iconic forward-leaning sprint while maintaining believable terrain contact on slopes, loops, rails, and walls.\n\nUse polished animation for idle, walk, jog, sprint, boost, jump, fall, landing, spin, homing attack, grinding, drifting, spring launches, stumbling, and victory. Use squash, stretch, anticipation, and follow-through while keeping the presentation sophisticated.\n\nTarget the feel of a premium modern console platformer: vibrant stylized visuals, strong PBR materials, dynamic sunlight, soft shadows, fog, ocean reflections, spray, vegetation movement, particles, ambient occlusion, tasteful bloom, rich color, and cinematic composition. Keep the tone colorful, optimistic, energetic, and larger than life.\n\nInclude interactive cinematic moments such as collapsing terrain, dramatic loop camera pulls, rail grinding high above the ocean, waterfall jumps, scattering birds, debris during boosts, and huge aerial reveals without taking control away from the player for long.\n\nThe highest priority is joyful control and AAA Graphics. The player should constantly want to accelerate, discover faster routes, hit ramps, chain attacks, grind rails, and replay sections more cleanly. Favor responsive movement, spectacle, momentum, and traversal polish over unnecessary systems.\n\nWhen details are unspecified, choose whatever produces the most impressive, energetic, polished, and unmistakably Sonic-like result possible in Godot.",
+  "status": "unknown",
+  "tags": [],
+  "category": "game-engines",
+  "author": "AiBattle",
+  "authorLink": "https://x.com/AiBattle_",
+  "source_url": "https://x.com/AiBattle_/status/2096056285896536086",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/create-a-visually-spectacular-highly-polished-3d-sonic-the-hedgehog-vertical-slice-536086/image-9d273ba9580a.webp",
+  "imageUrl": "https://x.com/AiBattle_/status/2096056285896536086",
+  "created_at": "2026-09-05T02:02:16.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096056285896536086",
+    "beatapi_slug": "create-a-visually-spectacular-highly-polished-3d-sonic-the-hedgehog-vertical-slice-536086",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

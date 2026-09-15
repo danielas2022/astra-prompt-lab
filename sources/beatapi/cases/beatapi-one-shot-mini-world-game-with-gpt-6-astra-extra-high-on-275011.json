@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-one-shot-mini-world-game-with-gpt-6-astra-extra-high-on-275011",
+  "title": "One-shot mini world game with gpt-6 Astra Extra High on Codex. Here is the prompt",
+  "source": "beatapi",
+  "prompt": "Let’s create a game called Mini World. It’s a 3D world exploration game with a beautiful, high-quality graphic interface, designed to be fun and easy to play for my four-and-a-half-year-old son. You should be able to zoom in and zoom out. From far away, the world looks like a small ball, but inside it has different regions to explore. One region can look like a forest, another can be a desert, and there can also be oceans where the character can swim around. The game has to feel fun and playable, with a character who can travel around different parts of the world, explore different environments, and discover things along the way. Please treat making this work properly as the main goal. It should be beautifully designed and thoroughly tested in a loop so that the movement, zooming, exploration, swimming, environments, controls, and overall experience all work smoothly together. Keep testing and improving it until everything is working reliably and the game feels polished, intuitive, and enjoyable for a young child.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Weijian Zhang",
+  "authorLink": "https://x.com/weijianzhang_",
+  "source_url": "https://x.com/weijianzhang_/status/2096641728497275011",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-shot-mini-world-game-with-gpt-6-astra-extra-high-on-275011/image-19d8802bfd75.webp",
+  "imageUrl": "https://x.com/weijianzhang_/status/2096641728497275011",
+  "created_at": "2026-09-06T16:48:36.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096641728497275011",
+    "beatapi_slug": "one-shot-mini-world-game-with-gpt-6-astra-extra-high-on-275011",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

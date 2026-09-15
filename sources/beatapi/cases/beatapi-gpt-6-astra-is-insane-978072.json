@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-is-insane-978072",
+  "title": "GPT-6 Astra is insane.",
+  "source": "beatapi",
+  "prompt": "One prompt generates a 3D concept of a software-defined radio PCB.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "P.MAC🌬️",
+  "authorLink": "https://x.com/pcmac_hq",
+  "source_url": "https://x.com/pcmac_hq/status/2096593423213978072",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-insane-978072/poster-2ed312310f0a.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-insane-978072/video-38e1a5798fce.webm",
+  "imageUrl": "https://x.com/pcmac_hq/status/2096593423213978072",
+  "created_at": "2026-09-06T13:36:39.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096593423213978072",
+    "beatapi_slug": "gpt-6-astra-is-insane-978072",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

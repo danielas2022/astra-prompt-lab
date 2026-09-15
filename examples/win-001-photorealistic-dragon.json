@@ -1,7 +1,7 @@
 {
   "id": "win-001",
   "title": "Photorealistic Dragon with Fire Breathing Effect",
-  "status": "win",
+  "status": "success",
   "source": "folk",
   "source_url": "https://example.com/astra-experiments/dragon-001",
   "prompt": "A highly detailed, photorealistic dragon with emerald scales breathing fire, standing on a rocky cliff at sunset, 8K resolution, cinematic lighting, volumetric fog effects, ray tracing",

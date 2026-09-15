@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-the-egg-by-andy-weir-813344",
+  "title": "The Egg by Andy Weir",
+  "source": "beatapi",
+  "prompt": "asked gpt-6 astra to oneshot animate a short film of it in blender",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "bloomy btw !! 🌸",
+  "authorLink": "https://x.com/yungcontent",
+  "source_url": "https://x.com/yungcontent/status/2097198172661813344",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/the-egg-by-andy-weir-813344/poster-9854e9cac903.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/the-egg-by-andy-weir-813344/video-9df57e6f7432.webm",
+  "imageUrl": "https://x.com/yungcontent/status/2097198172661813344",
+  "created_at": "2026-09-08T05:39:43.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097198172661813344",
+    "beatapi_slug": "the-egg-by-andy-weir-813344",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

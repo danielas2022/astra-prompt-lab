@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-turned-one-prompt-into-a-full-news-broadcast-intro-841139",
+  "title": "GPT-6 Astra turned one prompt into a full news broadcast intro in Blender using Higgsfield.",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astra turned one prompt into a full news broadcast intro in Blender using Higgsfield.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Higgsfield AI 🧩",
+  "authorLink": "https://x.com/higgsfield_ai",
+  "source_url": "https://x.com/higgsfield_ai/status/2096320620862841139",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-turned-one-prompt-into-a-full-news-broadcast-intro-841139/poster-64a5cbfb7ab8.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-turned-one-prompt-into-a-full-news-broadcast-intro-841139/video-a89446ff9721.webm",
+  "imageUrl": "https://x.com/higgsfield_ai/status/2096320620862841139",
+  "created_at": "2026-09-05T19:32:38.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096320620862841139",
+    "beatapi_slug": "gpt-6-astra-turned-one-prompt-into-a-full-news-broadcast-intro-841139",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

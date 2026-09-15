@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-blender-megascans-391060",
+  "title": "GPT-6 AstraでのBlenderモデリングが、劇流行りしてますが、そもそもmegascansのアセットだけを使って森を作ってもらえば、すぐフォトリアルになるんじゃないかと思ってやってみ",
+  "source": "beatapi",
+  "prompt": "GPT-6 AstraでのBlenderモデリングが、劇流行りしてますが、そもそもmegascansのアセットだけを使って森を作ってもらえば、すぐフォトリアルになるんじゃないかと思ってやってみました。結構良い結果になりました。参照で渡したのは添付の画像だけです。これならastraじゃなくてもできるのかな。",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Michiyoshi Shirota",
+  "authorLink": "https://x.com/onihachi",
+  "source_url": "https://x.com/onihachi/status/2096778157999391060",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-blender-megascans-391060/poster-6e854456d73a.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-blender-megascans-391060/video-4731f03a2c65.webm",
+  "imageUrl": "https://x.com/onihachi/status/2096778157999391060",
+  "created_at": "2026-09-07T01:50:43.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096778157999391060",
+    "beatapi_slug": "gpt-6-astra-blender-megascans-391060",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

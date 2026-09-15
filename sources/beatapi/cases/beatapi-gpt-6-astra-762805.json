@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-762805",
+  "title": "GPT-6 Astraであっという間にゲームが完成！🎮",
+  "source": "beatapi",
+  "prompt": "「蒼穹紅蓮隊風のシューティングゲーム作って」",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "SSSS.CRYPTOMAN⚡️AI",
+  "authorLink": "https://x.com/SSSS_CRYPTOMAN",
+  "source_url": "https://x.com/SSSS_CRYPTOMAN/status/2096248797873762805",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-762805/poster-e8437a0fce19.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-762805/video-6e567d10b93c.webm",
+  "imageUrl": "https://x.com/SSSS_CRYPTOMAN/status/2096248797873762805",
+  "created_at": "2026-09-05T14:47:14.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096248797873762805",
+    "beatapi_slug": "gpt-6-astra-762805",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

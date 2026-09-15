@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-053683",
+  "title": "GPT-6 Astraに「ブラウザで動くクロノ・トリガー風のゲーム作って」って指示しただけでこのレベルのものが出てきた・・・",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astraに「ブラウザで動くクロノ・トリガー風のゲーム作って」って指示しただけでこのレベルのものが出てきた・・・",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "セカヤサ@AI×Web制作💻小林 秀樹",
+  "authorLink": "https://x.com/hideki_climax",
+  "source_url": "https://x.com/hideki_climax/status/2096269008505053683",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-053683/poster-acd88b2d8bad.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-053683/video-05f91e4d820c.webm",
+  "imageUrl": "https://x.com/hideki_climax/status/2096269008505053683",
+  "created_at": "2026-09-05T16:07:33.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096269008505053683",
+    "beatapi_slug": "gpt-6-astra-053683",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-ff14-3000-rpg-gpt-6-astra-663872",
+  "title": "これは嬉しい...！泣きそう。FF14を3000時間超遊んだ自分、いずれ作れたらいいなと思ってた「オンラインRPGのタンクゲーム」をGPT-6 Astraが願いを叶えてくれました。",
+  "source": "beatapi",
+  "prompt": "Astraはなにかと勝手にやりすぎるんですが、このゲームではいろいろ言った仕様をきっちり再現してくれました。何か仕様入れたら何か破綻しそうなものなんですが他の要素をちゃんと調整してくれて...天才か。",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "ギガビット@ゲームつくるひと",
+  "authorLink": "https://x.com/gigabit_million",
+  "source_url": "https://x.com/gigabit_million/status/2097152946190663872",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/ff14-3000-rpg-gpt-6-astra-663872/poster-955ec2a06975.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/ff14-3000-rpg-gpt-6-astra-663872/video-60cc63edd780.webm",
+  "imageUrl": "https://x.com/gigabit_million/status/2097152946190663872",
+  "created_at": "2026-09-08T02:40:00.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097152946190663872",
+    "beatapi_slug": "ff14-3000-rpg-gpt-6-astra-663872",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-with-https-t-co-aqgyszi3dy-unreal5-blender-one-shot-880370",
+  "title": "GPT-6 Astra with https://t.co/AqgYSZI3dY + Unreal5 + Blender, One Shot a Playable 8 Ball Pool in",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astra with https://t.co/AqgYSZI3dY + Unreal5 + Blender, One Shot a Playable 8 Ball Pool in my TPS BR Shooter game, From idea to Playable, 1 prompt, 2 Hours, 40M Token, indie game development has never been so productive!",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "JackZ｜杰克周",
+  "authorLink": "https://x.com/jackzhj",
+  "source_url": "https://x.com/jackzhj/status/2097216210433880370",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-with-https-t-co-aqgyszi3dy-unreal5-blender-one-shot-880370/poster-2fbce8e916c9.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-with-https-t-co-aqgyszi3dy-unreal5-blender-one-shot-880370/video-379d69c1d7f3.webm",
+  "imageUrl": "https://x.com/jackzhj/status/2097216210433880370",
+  "created_at": "2026-09-08T06:51:23.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097216210433880370",
+    "beatapi_slug": "gpt-6-astra-with-https-t-co-aqgyszi3dy-unreal5-blender-one-shot-880370",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

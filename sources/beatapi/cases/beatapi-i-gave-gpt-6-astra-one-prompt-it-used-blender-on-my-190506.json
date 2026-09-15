@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-i-gave-gpt-6-astra-one-prompt-it-used-blender-on-my-190506",
+  "title": "i gave GPT 6 ASTRA one prompt. it used blender on my mac and made this in 15 minutes.",
+  "source": "beatapi",
+  "prompt": "i gave GPT 6 ASTRA one prompt.\nit used blender on my mac and made this in 15 minutes.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Kerem",
+  "authorLink": "https://x.com/kerobt",
+  "source_url": "https://x.com/kerobt/status/2096034774020190506",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-gave-gpt-6-astra-one-prompt-it-used-blender-on-my-190506/image-9327a2fe94de.webp",
+  "imageUrl": "https://x.com/kerobt/status/2096034774020190506",
+  "created_at": "2026-09-05T00:36:47.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096034774020190506",
+    "beatapi_slug": "i-gave-gpt-6-astra-one-prompt-it-used-blender-on-my-190506",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

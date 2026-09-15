@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-is-an-absolute-beast-at-building-3d-games-353891",
+  "title": "GPT-6 Astra is an absolute beast at building 3D games",
+  "source": "beatapi",
+  "prompt": "It one shot a full BMX racing game with Astra on High reasoning- Downhill bike physics, tricks,jumps,crashes,dynamic rain,cinematic cameras,insane boost effects.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Irushi",
+  "authorLink": "https://x.com/Im_IrushiK",
+  "source_url": "https://x.com/Im_IrushiK/status/2096280064019353891",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-an-absolute-beast-at-building-3d-games-353891/poster-37b7c576df98.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-an-absolute-beast-at-building-3d-games-353891/video-f68fbe03495e.webm",
+  "imageUrl": "https://x.com/Im_IrushiK/status/2096280064019353891",
+  "created_at": "2026-09-05T16:51:28.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096280064019353891",
+    "beatapi_slug": "gpt-6-astra-is-an-absolute-beast-at-building-3d-games-353891",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

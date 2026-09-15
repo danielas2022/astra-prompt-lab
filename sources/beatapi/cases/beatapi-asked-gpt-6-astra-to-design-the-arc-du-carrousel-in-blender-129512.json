@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-asked-gpt-6-astra-to-design-the-arc-du-carrousel-in-blender-129512",
+  "title": "Asked GPT-6 Astra to design the Arc du Carrousel in Blender and it literally pulled schematics f",
+  "source": "beatapi",
+  "prompt": "Asked GPT-6 Astra to design the Arc du Carrousel in Blender and it literally pulled schematics from the 1800s + photos from recent renovation works to texture it and built it at the right scale",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Arthur Bouffard",
+  "authorLink": "https://x.com/arthurbfrd",
+  "source_url": "https://x.com/arthurbfrd/status/2095849062545129512",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-design-the-arc-du-carrousel-in-blender-129512/image-fda14ab1b297.webp",
+  "imageUrl": "https://x.com/arthurbfrd/status/2095849062545129512",
+  "created_at": "2026-09-04T12:18:50.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095849062545129512",
+    "beatapi_slug": "asked-gpt-6-astra-to-design-the-arc-du-carrousel-in-blender-129512",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

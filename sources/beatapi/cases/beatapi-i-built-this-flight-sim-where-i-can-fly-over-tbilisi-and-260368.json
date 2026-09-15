@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-built-this-flight-sim-where-i-can-fly-over-tbilisi-and-260368",
+  "title": "I built this flight sim where I can fly over Tbilisi, and 95% of this game was built in a SINGLE",
+  "source": "beatapi",
+  "prompt": "I built this flight sim where I can fly over Tbilisi, and 95% of this game was built in a SINGLE request with Astra on Ultra mode.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "konstantine",
+  "authorLink": "https://x.com/codestantine",
+  "source_url": "https://x.com/codestantine/status/2095598327115260368",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-built-this-flight-sim-where-i-can-fly-over-tbilisi-and-260368/poster-3f5e5d769e19.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-built-this-flight-sim-where-i-can-fly-over-tbilisi-and-260368/video-6cbb9fdc4a24.webm",
+  "imageUrl": "https://x.com/codestantine/status/2095598327115260368",
+  "created_at": "2026-09-03T19:42:30.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095598327115260368",
+    "beatapi_slug": "i-built-this-flight-sim-where-i-can-fly-over-tbilisi-and-260368",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

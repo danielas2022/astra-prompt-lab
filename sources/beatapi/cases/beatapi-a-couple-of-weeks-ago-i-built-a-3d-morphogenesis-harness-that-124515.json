@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-a-couple-of-weeks-ago-i-built-a-3d-morphogenesis-harness-that-124515",
+  "title": "a couple of weeks ago I built a 3d morphogenesis harness that builds better 3d models from scrat",
+  "source": "beatapi",
+  "prompt": "a couple of weeks ago I built a 3d morphogenesis harness that builds better 3d models from scratch (from pure math, without Blender) by following a ruleset around math and anatomical vocabulary ( ϕ τ and π: super-quadratics exist as semantically meaningful object parts.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Andreas Xirtus 📐",
+  "authorLink": "https://x.com/andreasxirtus",
+  "source_url": "https://x.com/andreasxirtus/status/2095794528410124515",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/a-couple-of-weeks-ago-i-built-a-3d-morphogenesis-harness-that-124515/image-099f2603d6ed.webp",
+  "imageUrl": "https://x.com/andreasxirtus/status/2095794528410124515",
+  "created_at": "2026-09-04T08:42:08.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095794528410124515",
+    "beatapi_slug": "a-couple-of-weeks-ago-i-built-a-3d-morphogenesis-harness-that-124515",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-asked-gpt-6-astra-to-build-the-city-above-in-three-js-536826",
+  "title": "Asked GPT-6 Astra to build The City Above in Three.js.",
+  "source": "beatapi",
+  "prompt": "Asked GPT-6 Astra to build The City Above in Three.js.",
+  "status": "unknown",
+  "tags": [],
+  "category": "game-engines",
+  "author": "Pankaj Kumar",
+  "authorLink": "https://x.com/pankajkumar_dev",
+  "source_url": "https://x.com/pankajkumar_dev/status/2096795601828536826",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-build-the-city-above-in-three-js-536826/poster-d3efcacb8d84.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-build-the-city-above-in-three-js-536826/video-777ffe454c38.webm",
+  "imageUrl": "https://x.com/pankajkumar_dev/status/2096795601828536826",
+  "created_at": "2026-09-07T03:00:02.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096795601828536826",
+    "beatapi_slug": "asked-gpt-6-astra-to-build-the-city-above-in-three-js-536826",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

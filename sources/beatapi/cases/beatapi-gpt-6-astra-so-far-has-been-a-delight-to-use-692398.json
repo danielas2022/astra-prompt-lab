@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-so-far-has-been-a-delight-to-use-692398",
+  "title": "Gpt-6 Astra so far has been a delight to use",
+  "source": "beatapi",
+  "prompt": "Yesterday I asked it to make me a Brotato-like game and went to sleep",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Denis Spirin",
+  "authorLink": "https://x.com/den_spirin",
+  "source_url": "https://x.com/den_spirin/status/2095963199069692398",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-so-far-has-been-a-delight-to-use-692398/poster-cc365d85103f.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-so-far-has-been-a-delight-to-use-692398/video-31339b549adb.webm",
+  "imageUrl": "https://x.com/den_spirin/status/2095963199069692398",
+  "created_at": "2026-09-04T19:52:22.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095963199069692398",
+    "beatapi_slug": "gpt-6-astra-so-far-has-been-a-delight-to-use-692398",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-one-prompt-an-entire-playable-game-171825",
+  "title": "One prompt → an entire playable game? 🎮",
+  "source": "beatapi",
+  "prompt": "One prompt → an entire playable game?",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "The AI Pathway",
+  "authorLink": "https://x.com/AnanyaK90791",
+  "source_url": "https://x.com/AnanyaK90791/status/2096392863496171825",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-an-entire-playable-game-171825/poster-7eda8bfb7f7e.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-an-entire-playable-game-171825/video-69b49b37d4b3.webm",
+  "imageUrl": "https://x.com/AnanyaK90791/status/2096392863496171825",
+  "created_at": "2026-09-06T00:19:42.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096392863496171825",
+    "beatapi_slug": "one-prompt-an-entire-playable-game-171825",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

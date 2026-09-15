@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-cinema-4d-higgsfield-3d-animation-on-another-level-341069",
+  "title": "GPT-6 Astra + Cinema 4D + Higgsfield = 3D animation on another level.",
+  "source": "beatapi",
+  "prompt": "We created this full 3D kart-racing animation from a single prompt.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Higgsfield AI 🧩",
+  "authorLink": "https://x.com/higgsfield_ai",
+  "source_url": "https://x.com/higgsfield_ai/status/2096325376809341069",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-cinema-4d-higgsfield-3d-animation-on-another-level-341069/poster-6a0eebb0df26.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-cinema-4d-higgsfield-3d-animation-on-another-level-341069/video-8412db6d49d5.webm",
+  "imageUrl": "https://x.com/higgsfield_ai/status/2096325376809341069",
+  "created_at": "2026-09-05T19:51:32.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096325376809341069",
+    "beatapi_slug": "gpt-6-astra-cinema-4d-higgsfield-3d-animation-on-another-level-341069",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

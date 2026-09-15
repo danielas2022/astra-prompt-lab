@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-made-an-interactive-dumpling-feast-967809",
+  "title": "I made an interactive dumpling feast🥟",
+  "source": "beatapi",
+  "prompt": "Build a complete, polished interactive 3D website called “The Dumpling Club” using Three.js and the provided dumpling GLB model.\n\nArt direction:\nCreate a cozy miniature food scene with a warm cream background, terracotta accents, soft studio lighting, realistic shadows, and elegant typography. Pair an expressive serif headline with clean sans-serif controls. Use the headline “Small bites. Big feelings.” Give the scene plenty of breathing room.\n\nThe serving:\nPlace five adorable dumplings inside a round bamboo steamer with layered wooden walls, subtle grain, woven details, and parchment liners. Make the bamboo steamer the default, with a porcelain plate alternative. Add a small bowl of soy sauce beside it.\n\nThe personalities:\nGive each dumpling a distinct face, blinking eyes, rosy cheeks, and playful expressions. Add delicate rising steam and occasional squash-and-stretch animations. Keep jumps extremely low, almost touching the serving surface. The dumplings should feel soft and alive.\n\nThe interaction:\nClick a dumpling to make chopsticks gently pick it up, dip it into soy sauce, and bring it toward the camera for a bite. Add sauce ripples, droplets, a glossy dipped edge, tiny crumbs, and a brief English reaction. Let the remaining dumplings watch and react. Make the timing charming and satisfying.\n\nControls:\nInclude portions of 3, 5, or 8, refill, autoplay, sound, steam and sauce toggles, a “Boing!” button, and a mode that hides the interface. Add gentle synthesized sound effects.\n\nVideo:\nInclude a “Record a bite” button that creates a short automatic tasting with a live square preview. Export locally at 1080 × 1080 and 30 fps, preferring MP4 with WebM fallback.\n\nUse English throughout. Support mobile, keyboard interaction, and reduced motion. Keep assets local and deliver a fully working experience with polished animation and composition.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Gürsel Günacar",
+  "authorLink": "https://x.com/mech_eng_dev",
+  "source_url": "https://x.com/mech_eng_dev/status/2096019217698967809",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-made-an-interactive-dumpling-feast-967809/poster-f1860ca30c06.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-made-an-interactive-dumpling-feast-967809/video-fd77d3ab1d4a.webm",
+  "imageUrl": "https://x.com/mech_eng_dev/status/2096019217698967809",
+  "created_at": "2026-09-04T23:34:58.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096019217698967809",
+    "beatapi_slug": "i-made-an-interactive-dumpling-feast-967809",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

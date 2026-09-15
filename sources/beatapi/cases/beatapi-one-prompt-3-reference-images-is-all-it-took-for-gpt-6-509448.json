@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-one-prompt-3-reference-images-is-all-it-took-for-gpt-6-509448",
+  "title": "One prompt + 3 reference images is all it took for GPT-6 Astra to build this insanely detailed a",
+  "source": "beatapi",
+  "prompt": "One prompt + 3 reference images is all it took for GPT-6 Astra to build this insanely detailed and smooth 3D model of a bucket excavator.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Mitch🦖",
+  "authorLink": "https://x.com/mitch_7w",
+  "source_url": "https://x.com/mitch_7w/status/2096606704972509448",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-3-reference-images-is-all-it-took-for-gpt-6-509448/poster-9ade7ddb18f3.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-3-reference-images-is-all-it-took-for-gpt-6-509448/video-9e1676538e23.webm",
+  "imageUrl": "https://x.com/mitch_7w/status/2096606704972509448",
+  "created_at": "2026-09-06T14:29:26.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096606704972509448",
+    "beatapi_slug": "one-prompt-3-reference-images-is-all-it-took-for-gpt-6-509448",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

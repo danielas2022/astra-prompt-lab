@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-is-bonkers-it-made-a-fully-playable-3d-browser-840339",
+  "title": "GPT-6 Astra is bonkers. It made a fully playable 3D browser game with NPCs and quests.",
+  "source": "beatapi",
+  "prompt": "I asked it to be loosely inspired by @JoinEdgeCity, and it made each island related to a place we've been (Bhutan, Cape Town, California, etc.)\ngame is live: https://t.co/mi4ITdCPvY",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "timour kosters",
+  "authorLink": "https://x.com/timourxyz",
+  "source_url": "https://x.com/timourxyz/status/2096379521926840339",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-bonkers-it-made-a-fully-playable-3d-browser-840339/poster-8caffc6a68cf.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-bonkers-it-made-a-fully-playable-3d-browser-840339/video-4ee88df16321.webm",
+  "imageUrl": "https://x.com/timourxyz/status/2096379521926840339",
+  "created_at": "2026-09-05T23:26:41.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096379521926840339",
+    "beatapi_slug": "gpt-6-astra-is-bonkers-it-made-a-fully-playable-3d-browser-840339",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-used-gpt-6-astra-to-create-a-3d-website-that-pulls-896065",
+  "title": "I used GPT-6 Astra to create a 3D website that pulls apart the humanoid anatomy into 1,168 CAD c",
+  "source": "beatapi",
+  "prompt": "I used GPT-6 Astra to create a 3D website that pulls apart the humanoid anatomy into 1,168 CAD components!",
+  "status": "unknown",
+  "tags": [],
+  "category": "cad-3d-printing",
+  "author": "Michelle Sun",
+  "authorLink": "https://x.com/michellelsun",
+  "source_url": "https://x.com/michellelsun/status/2097064000806896065",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-used-gpt-6-astra-to-create-a-3d-website-that-pulls-896065/poster-f35171e4776a.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-used-gpt-6-astra-to-create-a-3d-website-that-pulls-896065/video-b31e2a966eca.webm",
+  "imageUrl": "https://x.com/michellelsun/status/2097064000806896065",
+  "created_at": "2026-09-07T20:46:34.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097064000806896065",
+    "beatapi_slug": "i-used-gpt-6-astra-to-create-a-3d-website-that-pulls-896065",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

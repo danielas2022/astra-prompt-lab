@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-create-the-best-metal-gear-game-152937",
+  "title": "I asked GPT-6 ASTRA to create the best Metal Gear game and this is the result after 24 hours!",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 ASTRA to create the best Metal Gear game and this is the result after 24 hours!",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Everything Metal Gear ❗",
+  "authorLink": "https://x.com/MetalGear_QWC",
+  "source_url": "https://x.com/MetalGear_QWC/status/2097081249257152937",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-create-the-best-metal-gear-game-152937/image-edce76ae9367.webp",
+  "imageUrl": "https://x.com/MetalGear_QWC/status/2097081249257152937",
+  "created_at": "2026-09-07T21:55:06.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097081249257152937",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-create-the-best-metal-gear-game-152937",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

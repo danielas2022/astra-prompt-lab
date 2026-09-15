@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-blender-811970",
+  "title": "GPT-6 AstraにBlenderを接続して",
+  "source": "beatapi",
+  "prompt": "Codexの画像生成スキルで狙った画風のコンセプト画を出し、ゲーム内スクショがその画に近づくまで反復。60fps",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "ガガロット",
+  "authorLink": "https://x.com/gagarot200",
+  "source_url": "https://x.com/gagarot200/status/2096094868770811970",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-blender-811970/poster-18388ce142b6.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-blender-811970/video-e8a67980eed2.webm",
+  "imageUrl": "https://x.com/gagarot200/status/2096094868770811970",
+  "created_at": "2026-09-05T04:35:34.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096094868770811970",
+    "beatapi_slug": "gpt-6-astra-blender-811970",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

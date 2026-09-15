@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-418931",
+  "title": "GPT-6 Astra さん、なんでも自信満々に「できます！」っていうんだもんなぁ。",
+  "source": "beatapi",
+  "prompt": "今度は、Blender でテオ・ヤンセンさんのストランドビーストみたいなの作れる？って言ったら、これ作ってきた。",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "G2（じーにー）｜AIビジネス翻訳家",
+  "authorLink": "https://x.com/aiclass_g2",
+  "source_url": "https://x.com/aiclass_g2/status/2096432472695418931",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-418931/poster-5a6758217dc3.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-418931/video-c5d2401c8942.webm",
+  "imageUrl": "https://x.com/aiclass_g2/status/2096432472695418931",
+  "created_at": "2026-09-06T02:57:05.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096432472695418931",
+    "beatapi_slug": "gpt-6-astra-418931",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tripo-device-a-photorealistic-3d-puzzle-game-that-uses-the-smartph",
+  "title": "DEVICE: A Photorealistic 3D Puzzle Game That Uses the Smartphone Itself",
+  "source": "tripo",
+  "prompt": "Prompt details not available in README",
+  "status": "success",
+  "tags": [
+    "tripo-curated"
+  ],
+  "author": "2026-09-12",
+  "upstreamUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+  "attribution": {
+    "name": "TripoGrowthLab awesome-astra-prompts",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  "notes": "Community-curated growth list (NOT product-official). Curated showcase example.",
+  "metadata": {
+    "tripo_anchor": "2098715488369152087",
+    "readme_line": 105
+  }
+}

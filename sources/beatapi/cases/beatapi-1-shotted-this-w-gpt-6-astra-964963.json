@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-1-shotted-this-w-gpt-6-astra-964963",
+  "title": "1 shotted this w/ GPT-6 Astra",
+  "source": "beatapi",
+  "prompt": "can we create an overall video presenting the concept of AdCar TV?\n\nmake an intro video of 30-60s showing nice visuals (maybe the 3d of the car)? and really cool car animations / branded stuff, showing off the site etc. Use ffmpeg, remotion and qwen 3 tts for voice, and install whatever makes sense, and come up with a cool arboard first and then make the video. there is some music and car sounds in the codebase already.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Dan ⚡️",
+  "authorLink": "https://x.com/d4m1n",
+  "source_url": "https://x.com/d4m1n/status/2096258259459964963",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/1-shotted-this-w-gpt-6-astra-964963/poster-37602db5b169.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/1-shotted-this-w-gpt-6-astra-964963/video-90bce189147d.webm",
+  "imageUrl": "https://x.com/d4m1n/status/2096258259459964963",
+  "created_at": "2026-09-05T15:24:50.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096258259459964963",
+    "beatapi_slug": "1-shotted-this-w-gpt-6-astra-964963",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

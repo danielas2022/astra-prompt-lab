@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-make-a-parqu-s-game-458014",
+  "title": "I asked GPT-6 Astra to make a Parqués game",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to make a Parqués game.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Ali Rivera",
+  "authorLink": "https://x.com/ninjaswebcom",
+  "source_url": "https://x.com/ninjaswebcom/status/2096277340418458014",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-make-a-parqu-s-game-458014/poster-6f6153c3bd84.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-make-a-parqu-s-game-458014/video-14bde84509ef.webm",
+  "imageUrl": "https://x.com/ninjaswebcom/status/2096277340418458014",
+  "created_at": "2026-09-05T16:40:39.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096277340418458014",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-make-a-parqu-s-game-458014",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

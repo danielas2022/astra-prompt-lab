@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-blender-blender-840022",
+  "title": "GPT-6 Astra（最高）で、太陽系とスイフト・タットル彗星のモデルをBlenderで出力して、Blenderから動画化した。そんなに多くのプロンプト？注文？はしていない。",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astra（最高）で、太陽系とスイフト・タットル彗星のモデルをBlenderで出力して、Blenderから動画化した。そんなに多くのプロンプト？注文？はしていない。",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "加藤 治 / KATO Osamu @ AltairLLC★ 🐈🐈",
+  "authorLink": "https://x.com/AltairLLC",
+  "source_url": "https://x.com/AltairLLC/status/2096508317241840022",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-blender-blender-840022/poster-0300af1bea69.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-blender-blender-840022/video-369260a4cb36.webm",
+  "imageUrl": "https://x.com/AltairLLC/status/2096508317241840022",
+  "created_at": "2026-09-06T07:58:28.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096508317241840022",
+    "beatapi_slug": "gpt-6-astra-blender-blender-840022",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

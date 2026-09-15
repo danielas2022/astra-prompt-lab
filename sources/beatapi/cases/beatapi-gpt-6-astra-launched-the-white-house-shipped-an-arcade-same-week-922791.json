@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-launched-the-white-house-shipped-an-arcade-same-week-922791",
+  "title": "GPT-6 Astra launched. The White House shipped an arcade. Same week.",
+  "source": "beatapi",
+  "prompt": "So we gave Claude Fable 5.1 and GPT-6 Astra one prompt each: build a self-playing arcade game for a G7 country.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Good Morning",
+  "authorLink": "https://x.com/say_gm_",
+  "source_url": "https://x.com/say_gm_/status/2095898198413922791",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-launched-the-white-house-shipped-an-arcade-same-week-922791/poster-5185eccee675.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-launched-the-white-house-shipped-an-arcade-same-week-922791/video-e4da0e9e0ded.webm",
+  "imageUrl": "https://x.com/say_gm_/status/2095898198413922791",
+  "created_at": "2026-09-04T15:34:05.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095898198413922791",
+    "beatapi_slug": "gpt-6-astra-launched-the-white-house-shipped-an-arcade-same-week-922791",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

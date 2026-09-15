@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-pokepia-12-637622",
+  "title": "我使用GPT 6-Astra创造出了Pokepia的场景，调整了两轮提示词，共计耗时了一个小时，消耗了12%的周额度。",
+  "source": "beatapi",
+  "prompt": "我使用GPT 6-Astra创造出了Pokepia的场景，调整了两轮提示词，共计耗时了一个小时，消耗了12%的周额度。",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "LerSent",
+  "authorLink": "https://x.com/LerSentAI",
+  "source_url": "https://x.com/LerSentAI/status/2096092845962637622",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-pokepia-12-637622/poster-da6ee5cb4362.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-pokepia-12-637622/video-9060cbd146f4.webm",
+  "imageUrl": "https://x.com/LerSentAI/status/2096092845962637622",
+  "created_at": "2026-09-05T04:27:32.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096092845962637622",
+    "beatapi_slug": "gpt-6-astra-pokepia-12-637622",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

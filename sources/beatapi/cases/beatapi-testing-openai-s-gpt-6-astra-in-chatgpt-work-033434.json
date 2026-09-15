@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-testing-openai-s-gpt-6-astra-in-chatgpt-work-033434",
+  "title": "Testing @OpenAI’s GPT-6 Astra in ChatGPT Work.",
+  "source": "beatapi",
+  "prompt": "I asked it to build a playable 3D driving game in a single HTML file.",
+  "status": "unknown",
+  "tags": [],
+  "category": "product-visualization",
+  "author": "Ricardo M. | AI & No-Code",
+  "authorLink": "https://x.com/IamRicardoML",
+  "source_url": "https://x.com/IamRicardoML/status/2096069303523033434",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/testing-openai-s-gpt-6-astra-in-chatgpt-work-033434/poster-6ea8a54dc3da.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/testing-openai-s-gpt-6-astra-in-chatgpt-work-033434/video-8612335d29b7.webm",
+  "imageUrl": "https://x.com/IamRicardoML/status/2096069303523033434",
+  "created_at": "2026-09-05T02:53:59.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096069303523033434",
+    "beatapi_slug": "testing-openai-s-gpt-6-astra-in-chatgpt-work-033434",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

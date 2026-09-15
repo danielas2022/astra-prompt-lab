@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-blender-blender-465002",
+  "title": "GPT-6 Astraでスチームパンク系の都市をBlenderで作ってみた。もちろんBlenderで、馬を作ったり、仕事したりしながら。最初に画像イメージを作り、そこから色々肉付けていった。指",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astraでスチームパンク系の都市をBlenderで作ってみた。もちろんBlenderで、馬を作ったり、仕事したりしながら。最初に画像イメージを作り、そこから色々肉付けていった。指示や修正した回数は結構多い。とはいえ、Blenderはすべて裏側で直接操作なし。",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "新清士@AIコンテンツ開発者",
+  "authorLink": "https://x.com/kiyoshi_shin",
+  "source_url": "https://x.com/kiyoshi_shin/status/2096959037963465002",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-blender-blender-465002/poster-cf3318d8e18a.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-blender-blender-465002/video-a1fcd033d300.webm",
+  "imageUrl": "https://x.com/kiyoshi_shin/status/2096959037963465002",
+  "created_at": "2026-09-07T13:49:28.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096959037963465002",
+    "beatapi_slug": "gpt-6-astra-blender-blender-465002",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

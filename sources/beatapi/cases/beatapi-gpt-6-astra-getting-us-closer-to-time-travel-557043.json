@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-getting-us-closer-to-time-travel-557043",
+  "title": "GPT-6 Astra getting us closer to time travel",
+  "source": "beatapi",
+  "prompt": "i asked it to prototype a time machine.\nit built a 3D machine with a microwave, a CRT, and two tiny singularities.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Manish Gawali",
+  "authorLink": "https://x.com/Gradient_Manish",
+  "source_url": "https://x.com/Gradient_Manish/status/2096750611165557043",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-getting-us-closer-to-time-travel-557043/poster-9bc4c0888ef3.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-getting-us-closer-to-time-travel-557043/video-2cf9a31a0e83.webm",
+  "imageUrl": "https://x.com/Gradient_Manish/status/2096750611165557043",
+  "created_at": "2026-09-07T00:01:16.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096750611165557043",
+    "beatapi_slug": "gpt-6-astra-getting-us-closer-to-time-travel-557043",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

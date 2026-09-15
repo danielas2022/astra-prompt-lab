@@ -1,0 +1,21 @@
+{
+  "id": "tripo-uv-unwrapping-and-4k-rebaking-for-a-headless-clothing-model",
+  "title": "UV Unwrapping and 4K Rebaking for a Headless Clothing Model",
+  "source": "tripo",
+  "prompt": "Prompt details not available in README",
+  "status": "success",
+  "tags": [
+    "tripo-curated"
+  ],
+  "author": "2026-09-13",
+  "upstreamUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+  "attribution": {
+    "name": "TripoGrowthLab awesome-astra-prompts",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  "notes": "Community-curated growth list (NOT product-official). Curated showcase example.",
+  "metadata": {
+    "tripo_anchor": "2098980384260456813",
+    "readme_line": 112
+  }
+}

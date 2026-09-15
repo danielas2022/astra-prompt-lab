@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-create-a-video-game-character-using-401747",
+  "title": "I asked GPT-6 Astra to create a video game character using computer use, then went to sleep.",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to create a video game character using computer use, then went to sleep.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Acrid from Risk of Rain 2",
+  "authorLink": "https://x.com/ACRIDDOGGO",
+  "source_url": "https://x.com/ACRIDDOGGO/status/2096940861376401747",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-create-a-video-game-character-using-401747/image-744561e2efdc.webp",
+  "imageUrl": "https://x.com/ACRIDDOGGO/status/2096940861376401747",
+  "created_at": "2026-09-07T12:37:15.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096940861376401747",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-create-a-video-game-character-using-401747",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

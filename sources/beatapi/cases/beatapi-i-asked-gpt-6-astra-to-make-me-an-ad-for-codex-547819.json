@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-make-me-an-ad-for-codex-547819",
+  "title": "I asked GPT-6 Astra to make me an ad for codex micro in OpenAI style.",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to make me an ad for codex micro in OpenAI style.\nIt made the audio, it made the 3d model by itself using blender mcp, from photo references it found, then made the ad with the model.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "bluedev",
+  "authorLink": "https://x.com/blueemi99",
+  "source_url": "https://x.com/blueemi99/status/2097031518715547819",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-make-me-an-ad-for-codex-547819/poster-99280da24fe9.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-make-me-an-ad-for-codex-547819/video-f45523d8846e.webm",
+  "imageUrl": "https://x.com/blueemi99/status/2097031518715547819",
+  "created_at": "2026-09-07T18:37:29.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097031518715547819",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-make-me-an-ad-for-codex-547819",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

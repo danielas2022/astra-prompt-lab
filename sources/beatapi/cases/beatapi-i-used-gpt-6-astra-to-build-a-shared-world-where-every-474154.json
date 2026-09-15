@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-used-gpt-6-astra-to-build-a-shared-world-where-every-474154",
+  "title": "I used GPT-6 Astra to build a shared world where every encounter leaves a trace.",
+  "source": "beatapi",
+  "prompt": "I used GPT-6 Astra to build a shared world where every encounter leaves a trace.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Brandon Powers",
+  "authorLink": "https://x.com/bpowtweets",
+  "source_url": "https://x.com/bpowtweets/status/2097153938818474154",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-used-gpt-6-astra-to-build-a-shared-world-where-every-474154/poster-689e0783cbfc.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-used-gpt-6-astra-to-build-a-shared-world-where-every-474154/video-bf99f929f59e.webm",
+  "imageUrl": "https://x.com/bpowtweets/status/2097153938818474154",
+  "created_at": "2026-09-08T02:43:56.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097153938818474154",
+    "beatapi_slug": "i-used-gpt-6-astra-to-build-a-shared-world-where-every-474154",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

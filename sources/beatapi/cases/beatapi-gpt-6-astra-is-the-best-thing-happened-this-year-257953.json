@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-gpt-6-astra-is-the-best-thing-happened-this-year-257953",
+  "title": "GPT 6 ASTRA IS THE BEST THING HAPPENED THIS YEAR.",
+  "source": "beatapi",
+  "prompt": "I asked to recreate a 3D playable character based on a Noctavia NFT and this is the result.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "NOCTAVIA™",
+  "authorLink": "https://x.com/noctav1a",
+  "source_url": "https://x.com/noctav1a/status/2096107343268257953",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-the-best-thing-happened-this-year-257953/image-c83430d8dda6.webp",
+  "imageUrl": "https://x.com/noctav1a/status/2096107343268257953",
+  "created_at": "2026-09-05T05:25:09.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096107343268257953",
+    "beatapi_slug": "gpt-6-astra-is-the-best-thing-happened-this-year-257953",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

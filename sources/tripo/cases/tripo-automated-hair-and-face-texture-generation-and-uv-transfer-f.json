@@ -1,0 +1,21 @@
+{
+  "id": "tripo-automated-hair-and-face-texture-generation-and-uv-transfer-f",
+  "title": "Automated Hair and Face Texture Generation and UV Transfer for Character Models",
+  "source": "tripo",
+  "prompt": "Prompt details not available in README",
+  "status": "success",
+  "tags": [
+    "tripo-curated"
+  ],
+  "author": "2026-09-11",
+  "upstreamUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+  "attribution": {
+    "name": "TripoGrowthLab awesome-astra-prompts",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  "notes": "Community-curated growth list (NOT product-official). Curated showcase example.",
+  "metadata": {
+    "tripo_anchor": "2098367087475577273",
+    "readme_line": 99
+  }
+}

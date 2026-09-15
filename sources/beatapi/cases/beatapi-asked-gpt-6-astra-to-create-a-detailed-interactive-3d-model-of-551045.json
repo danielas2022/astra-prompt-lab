@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-asked-gpt-6-astra-to-create-a-detailed-interactive-3d-model-of-551045",
+  "title": "Asked GPT-6 Astra to create a detailed, interactive 3D model of an engine with Higgsfield.",
+  "source": "beatapi",
+  "prompt": "Asked GPT-6 Astra to create a detailed, interactive 3D model of an engine with Higgsfield.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Higgsfield AI 🧩",
+  "authorLink": "https://x.com/higgsfield_ai",
+  "source_url": "https://x.com/higgsfield_ai/status/2096994022539551045",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-create-a-detailed-interactive-3d-model-of-551045/poster-c8255bcef8e9.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-create-a-detailed-interactive-3d-model-of-551045/video-6044731a65dc.webm",
+  "imageUrl": "https://x.com/higgsfield_ai/status/2096994022539551045",
+  "created_at": "2026-09-07T16:08:29.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096994022539551045",
+    "beatapi_slug": "asked-gpt-6-astra-to-create-a-detailed-interactive-3d-model-of-551045",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

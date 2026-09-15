@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-20-m-bed-desk-sofa-kitchen-409988",
+  "title": "20 m². Bed, desk, sofa, kitchen.",
+  "source": "beatapi",
+  "prompt": "I asked Astra to turn an empty room into a furnished 3D concept—and keep every object editable.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Generator",
+  "authorLink": "https://x.com/groovestreetgen",
+  "source_url": "https://x.com/groovestreetgen/status/2096377743701409988",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/20-m-bed-desk-sofa-kitchen-409988/poster-327f41c77cab.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/20-m-bed-desk-sofa-kitchen-409988/video-748fe6a83741.webm",
+  "imageUrl": "https://x.com/groovestreetgen/status/2096377743701409988",
+  "created_at": "2026-09-05T23:19:37.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096377743701409988",
+    "beatapi_slug": "20-m-bed-desk-sofa-kitchen-409988",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-build-goku-in-blender-and-bring-197445",
+  "title": "I asked GPT-6 Astra to build Goku in Blender and bring him into Godot. ⚡",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to build Goku in Blender and bring him into Godot.",
+  "status": "unknown",
+  "tags": [],
+  "category": "game-engines",
+  "author": "OddJolt",
+  "authorLink": "https://x.com/oddjolt",
+  "source_url": "https://x.com/oddjolt/status/2096499208845197445",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-build-goku-in-blender-and-bring-197445/poster-455f1d210250.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-build-goku-in-blender-and-bring-197445/video-4f800c60ba14.webm",
+  "imageUrl": "https://x.com/oddjolt/status/2096499208845197445",
+  "created_at": "2026-09-06T07:22:17.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096499208845197445",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-build-goku-in-blender-and-bring-197445",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

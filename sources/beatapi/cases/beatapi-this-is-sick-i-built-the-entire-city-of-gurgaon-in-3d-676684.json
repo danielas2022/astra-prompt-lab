@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-this-is-sick-i-built-the-entire-city-of-gurgaon-in-3d-676684",
+  "title": "This is sick! I built the entire city of Gurgaon in 3D using GPT-6 Astra",
+  "source": "beatapi",
+  "prompt": "I built the entire city of Gurgaon in 3D using GPT-6 Astra",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Yajat Gulati",
+  "authorLink": "https://x.com/GulatiYajat",
+  "source_url": "https://x.com/GulatiYajat/status/2096659142534676684",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/this-is-sick-i-built-the-entire-city-of-gurgaon-in-3d-676684/poster-6ff5610113cb.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/this-is-sick-i-built-the-entire-city-of-gurgaon-in-3d-676684/video-f18bc44f6643.webm",
+  "imageUrl": "https://x.com/GulatiYajat/status/2096659142534676684",
+  "created_at": "2026-09-06T17:57:48.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096659142534676684",
+    "beatapi_slug": "this-is-sick-i-built-the-entire-city-of-gurgaon-in-3d-676684",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

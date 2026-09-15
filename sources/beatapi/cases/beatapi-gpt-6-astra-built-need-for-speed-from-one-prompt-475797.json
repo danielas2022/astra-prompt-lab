@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-built-need-for-speed-from-one-prompt-475797",
+  "title": "GPT-6 ASTRA BUILT NEED FOR SPEED FROM ONE PROMPT.",
+  "source": "beatapi",
+  "prompt": "I asked Astra to build a fully playable 3D street-racing game from scratch via @aimlapi.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "noclipepe",
+  "authorLink": "https://x.com/noclipepe",
+  "source_url": "https://x.com/noclipepe/status/2096364501788475797",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-built-need-for-speed-from-one-prompt-475797/poster-95d1b50d77e6.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-built-need-for-speed-from-one-prompt-475797/video-d8b57eee6af4.webm",
+  "imageUrl": "https://x.com/noclipepe/status/2096364501788475797",
+  "created_at": "2026-09-05T22:27:00.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096364501788475797",
+    "beatapi_slug": "gpt-6-astra-built-need-for-speed-from-one-prompt-475797",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

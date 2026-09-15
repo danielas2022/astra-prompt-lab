@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gummy-bear-eat-amp-grow-503797",
+  "title": "🐻 GUMMY BEAR EAT &amp; GROW",
+  "source": "beatapi",
+  "prompt": "I basically just told Astra: make a gummy bear with a jelly-like material, turn it into an Eat & Grow game, and give the whole thing a sweet dessert vibe.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Victoria Wu",
+  "authorLink": "https://x.com/victoriawu77",
+  "source_url": "https://x.com/victoriawu77/status/2097222359929503797",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gummy-bear-eat-amp-grow-503797/poster-8fb179a1347b.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gummy-bear-eat-amp-grow-503797/video-9fdf4c7e3c8f.webm",
+  "imageUrl": "https://x.com/victoriawu77/status/2097222359929503797",
+  "created_at": "2026-09-08T07:15:49.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097222359929503797",
+    "beatapi_slug": "gummy-bear-eat-amp-grow-503797",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-gave-gpt-6-astra-a-38-page-pdf-of-blueprints-and-436073",
+  "title": "I gave GPT-6 Astra a 38 page PDF of blueprints and renders of a cabin",
+  "source": "beatapi",
+  "prompt": "I gave GPT-6 Astra a 38 page PDF of blueprints and renders of a cabin.\n~10min and I had a to-scale 3D walkthrough of interior and exterior.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Luke Wroblewski",
+  "authorLink": "https://x.com/LukeW",
+  "source_url": "https://x.com/LukeW/status/2096318130507436073",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-gave-gpt-6-astra-a-38-page-pdf-of-blueprints-and-436073/poster-492b3d3fb10b.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-gave-gpt-6-astra-a-38-page-pdf-of-blueprints-and-436073/video-e247d873c8fc.webm",
+  "imageUrl": "https://x.com/LukeW/status/2096318130507436073",
+  "created_at": "2026-09-05T19:22:44.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096318130507436073",
+    "beatapi_slug": "i-gave-gpt-6-astra-a-38-page-pdf-of-blueprints-and-436073",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

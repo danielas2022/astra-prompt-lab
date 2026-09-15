@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-my-wife-s-33-weeks-pregnant-with-our-baby-girl-762878",
+  "title": "My wife's 33 weeks pregnant with our baby girl.",
+  "source": "beatapi",
+  "prompt": "I wanted to understand what happens between scans, so I used GPT-6 Astra to build Bloom.\nPeel back the 3D layers.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Liam Colclough",
+  "authorLink": "https://x.com/Liam2307",
+  "source_url": "https://x.com/Liam2307/status/2097061152454762878",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/my-wife-s-33-weeks-pregnant-with-our-baby-girl-762878/poster-e2aae82226d0.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/my-wife-s-33-weeks-pregnant-with-our-baby-girl-762878/video-36acdce119ca.webm",
+  "imageUrl": "https://x.com/Liam2307/status/2097061152454762878",
+  "created_at": "2026-09-07T20:35:14.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097061152454762878",
+    "beatapi_slug": "my-wife-s-33-weeks-pregnant-with-our-baby-girl-762878",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

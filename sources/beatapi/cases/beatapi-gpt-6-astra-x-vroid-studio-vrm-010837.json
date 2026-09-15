@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-x-vroid-studio-vrm-010837",
+  "title": "GPT-6 Astra x VRoid Studio でVRM作成をおためし中",
+  "source": "beatapi",
+  "prompt": "添付画像を参照し、VRoid Studio を使って、キャラクターをを可能な限り忠実に再現してください",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "布留川英一 / Hidekazu Furukawa",
+  "authorLink": "https://x.com/npaka123",
+  "source_url": "https://x.com/npaka123/status/2096435985425010837",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-x-vroid-studio-vrm-010837/poster-409477c31553.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-x-vroid-studio-vrm-010837/video-9a98611a43bc.webm",
+  "imageUrl": "https://x.com/npaka123/status/2096435985425010837",
+  "created_at": "2026-09-06T03:11:03.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096435985425010837",
+    "beatapi_slug": "gpt-6-astra-x-vroid-studio-vrm-010837",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

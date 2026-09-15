@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-8h-093076",
+  "title": "GPT-6 Astra 连续运行 8h 的成果（还在继续制作影片中……",
+  "source": "beatapi",
+  "prompt": "见原贴\n\n成果：\n1）Rhino 建筑模型\n2）Grasshopper 帆面分格\n3）离线空间漫游\n4）IFC4 技术模型\n5）14张 A1 技术图\n6）一套 CAD 图纸\n7）2张 A1 建筑分析展板\n8）一段3min建筑影响预演\n9）一段2min一建筑为背景的悬疑短片\n10）点云修正\n11）建筑资料研究\n12）总体任务书\n13）3 组独立曲面修正\n\n未完成：2个成片和高精度模型",
+  "status": "unknown",
+  "tags": [],
+  "category": "cad-3d-printing",
+  "author": "-Zho-",
+  "authorLink": "https://x.com/ZHO_ZHO_ZHO",
+  "source_url": "https://x.com/ZHO_ZHO_ZHO/status/2096195128927093076",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-8h-093076/poster-acc2884d3cda.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-8h-093076/video-647498695b35.webm",
+  "imageUrl": "https://x.com/ZHO_ZHO_ZHO/status/2096195128927093076",
+  "created_at": "2026-09-05T11:13:58.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096195128927093076",
+    "beatapi_slug": "gpt-6-astra-8h-093076",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

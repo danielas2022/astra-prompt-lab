@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-create-a-single-file-html-simulation-of-abiogenesis-and-evolution-life-emerging-515874",
+  "title": "Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primord",
+  "source": "beatapi",
+  "prompt": "Create a single-file HTML simulation of abiogenesis and evolution — life emerging from a primordial ocean, evolving from single cells into complex multi-cellular organisms. 3D. WebGL. No libraries. No user interaction — just press play and watch 4 billion years of evolution unfold.\n\nThe arc: Start with nothing but dark, murky primordial fluid — think deep volcanic ocean, thermal vents glowing faintly in the distance. Drifting mineral particles and amino acid chains. Then the first protocell forms. It feeds on chemical energy, divides. Mutations accumulate. Over time, cells develop visible traits — flagella, cilia, spikes, photosynthetic pigments. Predators emerge. Then the breakthrough: cells start bonding into multi-cellular colonies. Colonies develop specialization — outer defensive cells, inner metabolic cells, sensory clusters. Eventually, creatures with distinct body plans swim through the frame — recognizable as organisms, not just blobs.\n\nMake the evolution visible. Every mutation should produce a visual change. The viewer should be able to tell lineages apart by color, shape, and appendages. The world should feel different at minute 1 vs minute 3 — more crowded, more diverse, more complex.\n\nMake it beautiful. Translucent membranes catching the light. Bioluminescent glow. Volumetric murk in the water. The camera should slowly drift through the scene like a submersible exploring an alien ocean.\n\nHUD: A small, elegant overlay showing elapsed evolutionary time, population, number of species, and most complex organism (by cell count).\n\nSingle HTML file. No Three.js, no libraries. Raw WebGL and GLSL. Canvas fills the viewport. Make it feel like a nature documentary shot on another planet.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Yume_X",
+  "authorLink": "https://x.com/yume_arasaki",
+  "source_url": "https://x.com/yume_arasaki/status/2096040448477515874",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/create-a-single-file-html-simulation-of-abiogenesis-and-evolution-life-emerging-515874/poster-7167219dd34e.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/create-a-single-file-html-simulation-of-abiogenesis-and-evolution-life-emerging-515874/video-0c32d9bd573b.webm",
+  "imageUrl": "https://x.com/yume_arasaki/status/2096040448477515874",
+  "created_at": "2026-09-05T00:59:20.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096040448477515874",
+    "beatapi_slug": "create-a-single-file-html-simulation-of-abiogenesis-and-evolution-life-emerging-515874",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

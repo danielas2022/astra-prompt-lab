@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-just-one-shotted-a-game-that-peaked-at-338-666076",
+  "title": "GPT-6 Astra just ONE-SHOTTED a game that peaked at $338 million ARR",
+  "source": "beatapi",
+  "prompt": "I told it to make the graphics better and 3D, but was honestly super disappointed with it.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Max",
+  "authorLink": "https://x.com/MozeTech",
+  "source_url": "https://x.com/MozeTech/status/2095981655370666076",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-just-one-shotted-a-game-that-peaked-at-338-666076/poster-ea423954b5cd.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-just-one-shotted-a-game-that-peaked-at-338-666076/video-9672f6b37fb9.webm",
+  "imageUrl": "https://x.com/MozeTech/status/2095981655370666076",
+  "created_at": "2026-09-04T21:05:42.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095981655370666076",
+    "beatapi_slug": "gpt-6-astra-just-one-shotted-a-game-that-peaked-at-338-666076",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

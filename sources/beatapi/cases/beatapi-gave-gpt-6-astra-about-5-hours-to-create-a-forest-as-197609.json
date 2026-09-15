@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gave-gpt-6-astra-about-5-hours-to-create-a-forest-as-197609",
+  "title": "gave GPT 6 Astra about 5 hours to create a forest as detailed as possible",
+  "source": "beatapi",
+  "prompt": "gave GPT 6 Astra about 5 hours to create a forest as detailed as possible\n(everything three.js plus some custom shaders)",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Leon Lin",
+  "authorLink": "https://x.com/LexnLin",
+  "source_url": "https://x.com/LexnLin/status/2096263046918197609",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gave-gpt-6-astra-about-5-hours-to-create-a-forest-as-197609/poster-96fac5d3630d.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gave-gpt-6-astra-about-5-hours-to-create-a-forest-as-197609/video-9866503e740e.webm",
+  "imageUrl": "https://x.com/LexnLin/status/2096263046918197609",
+  "created_at": "2026-09-05T15:43:51.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096263046918197609",
+    "beatapi_slug": "gave-gpt-6-astra-about-5-hours-to-create-a-forest-as-197609",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

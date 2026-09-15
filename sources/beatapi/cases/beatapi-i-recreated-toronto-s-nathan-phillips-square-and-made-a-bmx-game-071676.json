@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-recreated-toronto-s-nathan-phillips-square-and-made-a-bmx-game-071676",
+  "title": "I recreated Toronto's Nathan Phillips Square and made a BMX game in it using GPT 6 Astra + Blender",
+  "source": "beatapi",
+  "prompt": "I recreated Toronto's Nathan Phillips Square and made a BMX game in it using GPT 6 Astra + Blender",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "berman",
+  "authorLink": "https://x.com/berman_to",
+  "source_url": "https://x.com/berman_to/status/2097071876015071676",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-recreated-toronto-s-nathan-phillips-square-and-made-a-bmx-game-071676/poster-5f1da4663104.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-recreated-toronto-s-nathan-phillips-square-and-made-a-bmx-game-071676/video-829367c07d57.webm",
+  "imageUrl": "https://x.com/berman_to/status/2097071876015071676",
+  "created_at": "2026-09-07T21:17:51.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097071876015071676",
+    "beatapi_slug": "i-recreated-toronto-s-nathan-phillips-square-and-made-a-bmx-game-071676",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}
