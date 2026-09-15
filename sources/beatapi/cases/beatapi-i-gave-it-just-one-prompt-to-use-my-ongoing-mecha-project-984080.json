@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-gave-it-just-one-prompt-to-use-my-ongoing-mecha-project-984080",
+  "title": "I gave it just one prompt to use my ongoing mecha project and build a pacific rim style battle g",
+  "source": "beatapi",
+  "prompt": "I gave it just one prompt to use my ongoing mecha project and build a pacific rim style battle game.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Aniket J",
+  "authorLink": "https://x.com/aniketjart",
+  "source_url": "https://x.com/aniketjart/status/2096019868713984080",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-gave-it-just-one-prompt-to-use-my-ongoing-mecha-project-984080/poster-c29325d57aa0.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-gave-it-just-one-prompt-to-use-my-ongoing-mecha-project-984080/video-52ab3320384f.webm",
+  "imageUrl": "https://x.com/aniketjart/status/2096019868713984080",
+  "created_at": "2026-09-04T23:37:33.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096019868713984080",
+    "beatapi_slug": "i-gave-it-just-one-prompt-to-use-my-ongoing-mecha-project-984080",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

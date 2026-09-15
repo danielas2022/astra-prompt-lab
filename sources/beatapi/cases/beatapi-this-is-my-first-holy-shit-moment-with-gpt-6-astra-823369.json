@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-this-is-my-first-holy-shit-moment-with-gpt-6-astra-823369",
+  "title": "This is my first \"Holy Shit\" moment with GPT-6 Astra",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to create a ROBLOX game, and the results are stunning!",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "tony",
+  "authorLink": "https://x.com/tonyBflako",
+  "source_url": "https://x.com/tonyBflako/status/2097147556274823369",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/this-is-my-first-holy-shit-moment-with-gpt-6-astra-823369/poster-0807dd681664.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/this-is-my-first-holy-shit-moment-with-gpt-6-astra-823369/video-bc219a1547e3.webm",
+  "imageUrl": "https://x.com/tonyBflako/status/2097147556274823369",
+  "created_at": "2026-09-08T02:18:35.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097147556274823369",
+    "beatapi_slug": "this-is-my-first-holy-shit-moment-with-gpt-6-astra-823369",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

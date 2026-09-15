@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-chatcut-blender-is-insane-330908",
+  "title": "GPT-6 Astra + ChatCut + Blender is insane.",
+  "source": "beatapi",
+  "prompt": "Connect to ChatCut Desktop and Blender on my computer, and recreate the reference video I provided.\n\nCarefully analyze each shot's modeling, materials, lighting, camera placement, motion timing, and typography animation. Use Blender for 3D animation and ChatCut for editing, matching the reference as closely as possible.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "ChatCut",
+  "authorLink": "https://x.com/chatcutapp",
+  "source_url": "https://x.com/chatcutapp/status/2096925943575330908",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-chatcut-blender-is-insane-330908/poster-b87086a53e7e.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-chatcut-blender-is-insane-330908/video-7909d5e7ce36.webm",
+  "imageUrl": "https://x.com/chatcutapp/status/2096925943575330908",
+  "created_at": "2026-09-07T11:37:58.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096925943575330908",
+    "beatapi_slug": "gpt-6-astra-chatcut-blender-is-insane-330908",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

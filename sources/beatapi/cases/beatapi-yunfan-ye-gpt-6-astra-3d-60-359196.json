@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-yunfan-ye-gpt-6-astra-3d-60-359196",
+  "title": "独立开发者 Yunfan Ye 用 GPT-6 Astra 从一张模糊的房源图直接建出 3D 模型，再渲染成一条 60 秒的房源宣传片——一次性生成，没分镜、没剪辑、没人工修图。",
+  "source": "beatapi",
+  "prompt": "Use blender headless to recreate 3D model of this house: and then create a beautiful stunning walkthrough promotion video for the listing.\n\nYou are an expert cinematographer and animator working in Blender. When creating videos from 3D models, prioritize cinematic quality and visual richness over speed. Be meticulous and thorough. Infer the spatial relationship if needed. The video's camera movement should be bold and fluid, with a cinematic, blockbuster feel. I'd like one-take feel, continuous, unbroken movement.\n\nDo visual checks to make sure the 3D model and video look professional quality. Iterate until it is production ready. Target a video length 60 seconds-ish.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "EK",
+  "authorLink": "https://x.com/ekcheungAI",
+  "source_url": "https://x.com/ekcheungAI/status/2096463630317359196",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/yunfan-ye-gpt-6-astra-3d-60-359196/poster-f13f7905b170.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/yunfan-ye-gpt-6-astra-3d-60-359196/video-e2c4156dcdf2.webm",
+  "imageUrl": "https://x.com/ekcheungAI/status/2096463630317359196",
+  "created_at": "2026-09-06T05:00:54.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096463630317359196",
+    "beatapi_slug": "yunfan-ye-gpt-6-astra-3d-60-359196",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

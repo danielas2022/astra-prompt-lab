@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-struggles-with-a-flight-simulator-512181",
+  "title": "GPT-6 ASTRA STRUGGLES WITH A FLIGHT SIMULATOR 😭",
+  "source": "beatapi",
+  "prompt": "Build a polished, playable browser-based 3D flight simulator game from scratch.\n\nThe goal is to create a small but genuinely playable flight-sim experience, not a static 3D scene.\n\nGAMEPLAY\n- Create an airport with a detailed runway, taxiway, terminal/buildings, grass/terrain, runway markings/lights, sky and clouds.\n- Place a recognizable passenger airplane at the airport.\n- The player must be able to control the aircraft with the keyboard.\n- Implement throttle, pitch, roll, yaw and braking.\n- The aircraft must have basic believable flight physics, momentum and acceleration.\n- The player should be able to accelerate down the runway, take off, fly around the airport, approach the runway and land.\n- Add a simple objective: take off, complete a short flight around the airport and land safely.\n- Include crash/failure detection and a restart option.\n\nCONTROLS\nDisplay controls clearly:\n- W/S: Pitch\n- A/D: Roll\n- Q/E: Yaw\n- Shift/Ctrl: Throttle\n- Space: Brake\n\nCAMERA\n- Use a smooth third-person chase camera behind the aircraft.\n- Keep the aircraft clearly visible during flight.\n- Camera should smoothly follow movement and respond subtly to acceleration.\n\nHUD\nCreate a polished aviation-style HUD showing:\n- Airspeed\n- Altitude\n- Heading\n- Throttle\n- Vertical speed\n- Flight status\n- Current objective\n\nInclude a compact controls/help panel that can be hidden.\n\nSTART + RESULTS\nCreate a start screen with:",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "aditya",
+  "authorLink": "https://x.com/adxtyahq",
+  "source_url": "https://x.com/adxtyahq/status/2096236137266512181",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-struggles-with-a-flight-simulator-512181/poster-8005a1b84096.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-struggles-with-a-flight-simulator-512181/video-d243e36f2cf1.webm",
+  "imageUrl": "https://x.com/adxtyahq/status/2096236137266512181",
+  "created_at": "2026-09-05T13:56:55.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096236137266512181",
+    "beatapi_slug": "gpt-6-astra-struggles-with-a-flight-simulator-512181",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

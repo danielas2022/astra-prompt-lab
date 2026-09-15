@@ -1,0 +1,21 @@
+{
+  "id": "tripo-recreate-a-mini-3d-game-inspired-by-league-of-legends",
+  "title": "Recreate a Mini 3D Game Inspired by League of Legends",
+  "source": "tripo",
+  "prompt": "Prompt details not available in README",
+  "status": "success",
+  "tags": [
+    "tripo-curated"
+  ],
+  "author": "2026-09-08",
+  "upstreamUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+  "attribution": {
+    "name": "TripoGrowthLab awesome-astra-prompts",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  "notes": "Community-curated growth list (NOT product-official). Curated showcase example.",
+  "metadata": {
+    "tripo_anchor": "2097320830602809682",
+    "readme_line": 78
+  }
+}

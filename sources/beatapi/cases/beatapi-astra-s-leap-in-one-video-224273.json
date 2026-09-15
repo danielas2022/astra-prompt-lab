@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-astra-s-leap-in-one-video-224273",
+  "title": "Astra’s leap, in one video.",
+  "source": "beatapi",
+  "prompt": "Make an HTML game exactly like the one in this video.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "谢世杰｜AI游民",
+  "authorLink": "https://x.com/world_0618",
+  "source_url": "https://x.com/world_0618/status/2096960373136224273",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/astra-s-leap-in-one-video-224273/poster-4306cdfa32af.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/astra-s-leap-in-one-video-224273/video-3bbb43c846e0.webm",
+  "imageUrl": "https://x.com/world_0618/status/2096960373136224273",
+  "created_at": "2026-09-07T13:54:47.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096960373136224273",
+    "beatapi_slug": "astra-s-leap-in-one-video-224273",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

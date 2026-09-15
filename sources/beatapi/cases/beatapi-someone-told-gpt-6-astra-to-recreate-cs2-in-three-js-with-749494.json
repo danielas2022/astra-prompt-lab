@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-someone-told-gpt-6-astra-to-recreate-cs2-in-three-js-with-749494",
+  "title": "Someone told GPT-6 Astra to recreate CS2 in Three.js with basically one prompt",
+  "source": "beatapi",
+  "prompt": "make me cs2 in three.js, make no mistakes.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "CS2 Files",
+  "authorLink": "https://x.com/cs2files",
+  "source_url": "https://x.com/cs2files/status/2096526852097749494",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/someone-told-gpt-6-astra-to-recreate-cs2-in-three-js-with-749494/poster-424dc4eef72b.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/someone-told-gpt-6-astra-to-recreate-cs2-in-three-js-with-749494/video-7f93ca2f5e23.webm",
+  "imageUrl": "https://x.com/cs2files/status/2096526852097749494",
+  "created_at": "2026-09-06T09:12:07.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096526852097749494",
+    "beatapi_slug": "someone-told-gpt-6-astra-to-recreate-cs2-in-three-js-with-749494",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

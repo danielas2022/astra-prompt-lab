@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-inspired-by-ashebytes-exploding-parts-demos-i-asked-gpt-6-astra-to-458717",
+  "title": "inspired by @ashebytes exploding parts demos, I asked GPT-6 Astra to design and build a robot wi",
+  "source": "beatapi",
+  "prompt": "inspired by @ashebytes exploding parts demos, I asked GPT-6 Astra to design and build a robot with 3875 parts in @Blender rendered in @threejs",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Majid Manzarpour",
+  "authorLink": "https://x.com/majidmanzarpour",
+  "source_url": "https://x.com/majidmanzarpour/status/2096740827179458717",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/inspired-by-ashebytes-exploding-parts-demos-i-asked-gpt-6-astra-to-458717/poster-ec17043dd3c5.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/inspired-by-ashebytes-exploding-parts-demos-i-asked-gpt-6-astra-to-458717/video-19269fbe7385.webm",
+  "imageUrl": "https://x.com/majidmanzarpour/status/2096740827179458717",
+  "created_at": "2026-09-06T23:22:23.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096740827179458717",
+    "beatapi_slug": "inspired-by-ashebytes-exploding-parts-demos-i-asked-gpt-6-astra-to-458717",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

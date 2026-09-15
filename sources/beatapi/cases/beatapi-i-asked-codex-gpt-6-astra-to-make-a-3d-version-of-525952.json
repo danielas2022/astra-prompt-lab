@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-asked-codex-gpt-6-astra-to-make-a-3d-version-of-525952",
+  "title": "I asked Codex (GPT-6 Astra) to make a 3D version of my 2D kart racer, with a camera that follows",
+  "source": "beatapi",
+  "prompt": "I asked Codex (GPT-6 Astra) to make a 3D version of my 2D kart racer, with a camera that follows the kart from behind.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Yusuke Ariyoshi",
+  "authorLink": "https://x.com/yusucase",
+  "source_url": "https://x.com/yusucase/status/2097144156506525952",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-codex-gpt-6-astra-to-make-a-3d-version-of-525952/poster-5dcc1a17b27f.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-codex-gpt-6-astra-to-make-a-3d-version-of-525952/video-3281efdb82b7.webm",
+  "imageUrl": "https://x.com/yusucase/status/2097144156506525952",
+  "created_at": "2026-09-08T02:05:04.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097144156506525952",
+    "beatapi_slug": "i-asked-codex-gpt-6-astra-to-make-a-3d-version-of-525952",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-upgrade-my-basic-3d-browser-experiment-623244",
+  "title": "I asked GPT-6 Astra to upgrade my basic 3D browser experiment",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to upgrade my basic 3D browser experiment.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Simone Andreotti",
+  "authorLink": "https://x.com/Simone_dev_com",
+  "source_url": "https://x.com/Simone_dev_com/status/2096961692693623244",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-upgrade-my-basic-3d-browser-experiment-623244/poster-91dc7da52043.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-upgrade-my-basic-3d-browser-experiment-623244/video-00dde4c0479a.webm",
+  "imageUrl": "https://x.com/Simone_dev_com/status/2096961692693623244",
+  "created_at": "2026-09-07T14:00:01.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096961692693623244",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-upgrade-my-basic-3d-browser-experiment-623244",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

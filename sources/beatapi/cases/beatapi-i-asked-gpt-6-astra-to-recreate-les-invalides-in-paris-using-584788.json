@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-recreate-les-invalides-in-paris-using-584788",
+  "title": "I asked GPT-6 Astra to recreate Les Invalides in Paris using Blender, then bring it into Unreal",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to recreate Les Invalides in Paris using Blender, then bring it into Unreal Engine for a short aerial video.",
+  "status": "unknown",
+  "tags": [],
+  "category": "game-engines",
+  "author": "Emmanuel Guillo",
+  "authorLink": "https://x.com/emmanuelguillo",
+  "source_url": "https://x.com/emmanuelguillo/status/2096265936294584788",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-recreate-les-invalides-in-paris-using-584788/poster-1d9bc4d6e70c.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-recreate-les-invalides-in-paris-using-584788/video-4f04f7049335.webm",
+  "imageUrl": "https://x.com/emmanuelguillo/status/2096265936294584788",
+  "created_at": "2026-09-05T15:55:20.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096265936294584788",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-recreate-les-invalides-in-paris-using-584788",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

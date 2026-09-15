@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-zenmux-5-cs-711429",
+  "title": "GPT-6 Astra 上 ZenMux 了。这次我有个很具体的体验：5 小时，复刻 CS。",
+  "source": "beatapi",
+  "prompt": "之前拿 K3 调了一周，效果一直不太理想。这次换 Astra，主提示词就是复刻 CS 冰雪地图，后面又微调了 10 轮左右，最后做成了视频里这样。\n复刻游戏也挺适合拿来测 coding。目标明确，有现成的参考，最后还得亲自上手验收。代码交出来以后，功能能不能一起跑、改完这里会不会影响那里，都得在实际操作里过一遍。微调那十来轮，本身也是测试的一部分。",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Hello AI with Jia",
+  "authorLink": "https://x.com/XChatScout",
+  "source_url": "https://x.com/XChatScout/status/2096943289190711429",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-zenmux-5-cs-711429/poster-c4d2301da44c.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-zenmux-5-cs-711429/video-b6507a7cb833.webm",
+  "imageUrl": "https://x.com/XChatScout/status/2096943289190711429",
+  "created_at": "2026-09-07T12:46:54.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096943289190711429",
+    "beatapi_slug": "gpt-6-astra-zenmux-5-cs-711429",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

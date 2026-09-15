@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-build-an-f1-game-with-online-multiplayer-make-the-models-in-blender-650168",
+  "title": "Build an F1 game with online multiplayer. Make the models in Blender",
+  "source": "beatapi",
+  "prompt": "Build an F1 game with online multiplayer. Make the models in Blender.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "bytesworms",
+  "authorLink": "https://x.com/bytesworms",
+  "source_url": "https://x.com/bytesworms/status/2096649912066650168",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/build-an-f1-game-with-online-multiplayer-make-the-models-in-blender-650168/image-2e66dbfd5d8b.webp",
+  "imageUrl": "https://x.com/bytesworms/status/2096649912066650168",
+  "created_at": "2026-09-06T17:21:07.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096649912066650168",
+    "beatapi_slug": "build-an-f1-game-with-online-multiplayer-make-the-models-in-blender-650168",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

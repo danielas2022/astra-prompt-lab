@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-one-prompt-for-gpt-6-astra-136966",
+  "title": "One prompt for GPT-6 Astra.",
+  "source": "beatapi",
+  "prompt": "I built a simple interactive 3D model of the NVIDIA DGX Spark directly in the browser: exploded view, X-ray, components, and airflow.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Entadion 🌼",
+  "authorLink": "https://x.com/entadion",
+  "source_url": "https://x.com/entadion/status/2096320010323136966",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-for-gpt-6-astra-136966/poster-05933c182cab.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-for-gpt-6-astra-136966/video-c608f8b3f0ac.webm",
+  "imageUrl": "https://x.com/entadion/status/2096320010323136966",
+  "created_at": "2026-09-05T19:30:12.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096320010323136966",
+    "beatapi_slug": "one-prompt-for-gpt-6-astra-136966",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

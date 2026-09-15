@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-gpt-6-astra-higgsfield-blender-cinema-4d-a-new-era-for-product-397560",
+  "title": "GPT-6 Astra + Higgsfield + Blender + Cinema 4D = a new era for product visualization.",
+  "source": "beatapi",
+  "prompt": "Starting from a four-angle reference image, we built a clean, textured and animation-ready 3D model of our health wearable—complete with optimized topology, separated components and Redshift materials.",
+  "status": "unknown",
+  "tags": [],
+  "category": "product-visualization",
+  "author": "Xen Studios",
+  "authorLink": "https://x.com/XenStudiosUK",
+  "source_url": "https://x.com/XenStudiosUK/status/2097064044146397560",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-higgsfield-blender-cinema-4d-a-new-era-for-product-397560/image-2eb0f0897f82.webp",
+  "imageUrl": "https://x.com/XenStudiosUK/status/2097064044146397560",
+  "created_at": "2026-09-07T20:46:44.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097064044146397560",
+    "beatapi_slug": "gpt-6-astra-higgsfield-blender-cinema-4d-a-new-era-for-product-397560",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

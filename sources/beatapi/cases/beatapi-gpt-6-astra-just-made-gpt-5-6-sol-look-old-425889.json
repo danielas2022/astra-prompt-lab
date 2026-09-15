@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-just-made-gpt-5-6-sol-look-old-425889",
+  "title": "GPT-6 ASTRA JUST MADE GPT-5.6 SOL LOOK OLD.",
+  "source": "beatapi",
+  "prompt": "I asked both to build a fully playable claw machine from scratch via @aimlapi.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "noclipepe",
+  "authorLink": "https://x.com/noclipepe",
+  "source_url": "https://x.com/noclipepe/status/2096004618895425889",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-just-made-gpt-5-6-sol-look-old-425889/poster-3ba52d7f1250.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-just-made-gpt-5-6-sol-look-old-425889/video-a94ced1ccdba.webm",
+  "imageUrl": "https://x.com/noclipepe/status/2096004618895425889",
+  "created_at": "2026-09-04T22:36:57.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096004618895425889",
+    "beatapi_slug": "gpt-6-astra-just-made-gpt-5-6-sol-look-old-425889",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

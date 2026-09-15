@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-you-know-i-had-to-do-it-450021",
+  "title": "You know I had to do it!!",
+  "source": "beatapi",
+  "prompt": "gpt-6-astra (High), one prompt, Terreiro do Paço in Lisbon (Blender, not Three.js!)",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Gonçalo Canhoto 🇵🇹",
+  "authorLink": "https://x.com/goncalo_canhoto",
+  "source_url": "https://x.com/goncalo_canhoto/status/2096298425914450021",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/you-know-i-had-to-do-it-450021/poster-31c825fc88af.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/you-know-i-had-to-do-it-450021/video-ad270767c086.webm",
+  "imageUrl": "https://x.com/goncalo_canhoto/status/2096298425914450021",
+  "created_at": "2026-09-05T18:04:26.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096298425914450021",
+    "beatapi_slug": "you-know-i-had-to-do-it-450021",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

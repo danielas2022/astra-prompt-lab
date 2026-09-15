@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-first-blender-impressions-113957",
+  "title": "GPT 6 Astra first blender Impressions.",
+  "source": "beatapi",
+  "prompt": "Create a 3d Formula one Model in blender with computer use.   Whats next?",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Conor Dart",
+  "authorLink": "https://x.com/Conor_D_Dart",
+  "source_url": "https://x.com/Conor_D_Dart/status/2096125193580113957",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-first-blender-impressions-113957/poster-fd2fe102763b.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-first-blender-impressions-113957/video-dd4d6660654e.webm",
+  "imageUrl": "https://x.com/Conor_D_Dart/status/2096125193580113957",
+  "created_at": "2026-09-05T06:36:04.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096125193580113957",
+    "beatapi_slug": "gpt-6-astra-first-blender-impressions-113957",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

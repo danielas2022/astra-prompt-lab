@@ -1,0 +1,21 @@
+{
+  "id": "tripo-endless-miniature-street-in-threejs-webgpu",
+  "title": "Endless Miniature Street in Three.js WebGPU",
+  "source": "tripo",
+  "prompt": "Prompt details not available in README",
+  "status": "success",
+  "tags": [
+    "tripo-curated"
+  ],
+  "author": "2026-09-07",
+  "upstreamUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+  "attribution": {
+    "name": "TripoGrowthLab awesome-astra-prompts",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  "notes": "Community-curated growth list (NOT product-official). Curated showcase example.",
+  "metadata": {
+    "tripo_anchor": "2096956214680965501",
+    "readme_line": 68
+  }
+}

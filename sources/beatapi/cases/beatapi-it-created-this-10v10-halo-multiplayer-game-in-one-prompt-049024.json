@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-it-created-this-10v10-halo-multiplayer-game-in-one-prompt-049024",
+  "title": "It Created this 10v10 Halo multiplayer game in one prompt",
+  "source": "beatapi",
+  "prompt": "It Created this 10v10 Halo multiplayer game in one prompt.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Halfdan",
+  "authorLink": "https://x.com/VikiingAI",
+  "source_url": "https://x.com/VikiingAI/status/2095598026916049024",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/it-created-this-10v10-halo-multiplayer-game-in-one-prompt-049024/poster-6d6989bf30dd.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/it-created-this-10v10-halo-multiplayer-game-in-one-prompt-049024/video-40ad26f3d1c7.webm",
+  "imageUrl": "https://x.com/VikiingAI/status/2095598026916049024",
+  "created_at": "2026-09-03T19:41:18.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095598026916049024",
+    "beatapi_slug": "it-created-this-10v10-halo-multiplayer-game-in-one-prompt-049024",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

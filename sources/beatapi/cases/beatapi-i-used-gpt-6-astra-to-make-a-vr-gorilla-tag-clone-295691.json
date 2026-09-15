@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-used-gpt-6-astra-to-make-a-vr-gorilla-tag-clone-295691",
+  "title": "I used GPT-6 Astra to make a VR Gorilla Tag clone but with graphics that don't suck absolute ass",
+  "source": "beatapi",
+  "prompt": "I used GPT-6 Astra to make a VR Gorilla Tag clone but with graphics that don't suck absolute ass unlike the original game.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "French blob",
+  "authorLink": "https://x.com/undrstanding_ai",
+  "source_url": "https://x.com/undrstanding_ai/status/2096345392753295691",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-used-gpt-6-astra-to-make-a-vr-gorilla-tag-clone-295691/poster-b9fa91ad9560.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-used-gpt-6-astra-to-make-a-vr-gorilla-tag-clone-295691/video-63e34e27082d.webm",
+  "imageUrl": "https://x.com/undrstanding_ai/status/2096345392753295691",
+  "created_at": "2026-09-05T21:11:04.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096345392753295691",
+    "beatapi_slug": "i-used-gpt-6-astra-to-make-a-vr-gorilla-tag-clone-295691",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

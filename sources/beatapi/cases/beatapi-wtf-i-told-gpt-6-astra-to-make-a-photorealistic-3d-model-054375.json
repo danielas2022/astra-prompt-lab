@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-wtf-i-told-gpt-6-astra-to-make-a-photorealistic-3d-model-054375",
+  "title": "wtf i told gpt-6 astra to make a photorealistic 3d model of ur mom",
+  "source": "beatapi",
+  "prompt": "wtf i told gpt-6 astra to make a photorealistic 3d model of ur mom",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "bloomy btw !! 🌸",
+  "authorLink": "https://x.com/yungcontent",
+  "source_url": "https://x.com/yungcontent/status/2096664538708054375",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/wtf-i-told-gpt-6-astra-to-make-a-photorealistic-3d-model-054375/poster-db2c05c05b10.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/wtf-i-told-gpt-6-astra-to-make-a-photorealistic-3d-model-054375/video-a4fbb8deab18.webm",
+  "imageUrl": "https://x.com/yungcontent/status/2096664538708054375",
+  "created_at": "2026-09-06T18:19:14.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096664538708054375",
+    "beatapi_slug": "wtf-i-told-gpt-6-astra-to-make-a-photorealistic-3d-model-054375",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

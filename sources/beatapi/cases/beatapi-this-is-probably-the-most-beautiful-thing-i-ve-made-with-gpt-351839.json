@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-this-is-probably-the-most-beautiful-thing-i-ve-made-with-gpt-351839",
+  "title": "This is probably the most beautiful thing I’ve made with GPT-6 Astra so far, The Colosseum in Ro",
+  "source": "beatapi",
+  "prompt": "This is probably the most beautiful thing I’ve made with GPT-6 Astra so far, The Colosseum in Rome, one of the 7 Wonders of the World, And all I asked it for was:",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Iam_",
+  "authorLink": "https://x.com/SPAC89",
+  "source_url": "https://x.com/SPAC89/status/2096661221164351839",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/this-is-probably-the-most-beautiful-thing-i-ve-made-with-gpt-351839/poster-6c57900b8cd5.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/this-is-probably-the-most-beautiful-thing-i-ve-made-with-gpt-351839/video-5c183a6fc845.webm",
+  "imageUrl": "https://x.com/SPAC89/status/2096661221164351839",
+  "created_at": "2026-09-06T18:06:03.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096661221164351839",
+    "beatapi_slug": "this-is-probably-the-most-beautiful-thing-i-ve-made-with-gpt-351839",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

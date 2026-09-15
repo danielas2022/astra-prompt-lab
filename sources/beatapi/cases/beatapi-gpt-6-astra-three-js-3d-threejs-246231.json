@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-three-js-3d-threejs-246231",
+  "title": "GPT-6 Astra + Three.js ，只使用简单的提示词就构建了一个3D解谜游戏的完整关卡和游戏机制。整个过程我几乎没有干预，只在最后导入增加了音频素材。@threejs",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astra + Three.js ，只使用简单的提示词就构建了一个3D解谜游戏的完整关卡和游戏机制。整个过程我几乎没有干预，只在最后导入增加了音频素材。@threejs",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Steve的花园儿",
+  "authorLink": "https://x.com/TvWoo",
+  "source_url": "https://x.com/TvWoo/status/2096505740643246231",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-three-js-3d-threejs-246231/poster-6ca5639634cd.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-three-js-3d-threejs-246231/video-b8c0c68fa2df.webm",
+  "imageUrl": "https://x.com/TvWoo/status/2096505740643246231",
+  "created_at": "2026-09-06T07:48:14.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096505740643246231",
+    "beatapi_slug": "gpt-6-astra-three-js-3d-threejs-246231",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

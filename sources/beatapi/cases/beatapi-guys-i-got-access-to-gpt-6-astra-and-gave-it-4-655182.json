@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-guys-i-got-access-to-gpt-6-astra-and-gave-it-4-655182",
+  "title": "Guys, I got access to GPT-6-Astra and gave it 4 reference photos of Sexyy Red and a one shot pro",
+  "source": "beatapi",
+  "prompt": "Guys, I got access to GPT-6-Astra and gave it 4 reference photos of Sexyy Red and a one shot prompt to render a photorealistic model of her in Blender.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Will | Engineer & Founder",
+  "authorLink": "https://x.com/DinnerIsDelayed",
+  "source_url": "https://x.com/DinnerIsDelayed/status/2096043741626655182",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/guys-i-got-access-to-gpt-6-astra-and-gave-it-4-655182/poster-bb9573ac8277.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/guys-i-got-access-to-gpt-6-astra-and-gave-it-4-655182/video-72d02ba59556.webm",
+  "imageUrl": "https://x.com/DinnerIsDelayed/status/2096043741626655182",
+  "created_at": "2026-09-05T01:12:25.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096043741626655182",
+    "beatapi_slug": "guys-i-got-access-to-gpt-6-astra-and-gave-it-4-655182",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

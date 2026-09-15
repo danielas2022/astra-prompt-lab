@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-30-937822",
+  "title": "GPT-6 Astraに「もふもふの女の子が主人公のゼルダライクなゲーム作って」ってお願いしたら、30分くらいでこんなのできた。えと…ゲーム開発ってなんだっけ？(●´ω｀●)",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astraに「もふもふの女の子が主人公のゼルダライクなゲーム作って」ってお願いしたら、30分くらいでこんなのできた。えと…ゲーム開発ってなんだっけ？(●´ω｀●)",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "超熟ななこ",
+  "authorLink": "https://x.com/nanacojima",
+  "source_url": "https://x.com/nanacojima/status/2097084458205937822",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-30-937822/poster-b5b8a382af30.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-30-937822/video-1e00a14bec4f.webm",
+  "imageUrl": "https://x.com/nanacojima/status/2097084458205937822",
+  "created_at": "2026-09-07T22:07:51.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097084458205937822",
+    "beatapi_slug": "gpt-6-astra-30-937822",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

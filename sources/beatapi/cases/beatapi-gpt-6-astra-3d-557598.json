@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-gpt-6-astra-3d-557598",
+  "title": "建议收藏：吃透 GPT-6 ASTRA 3D设计工作流只需要一张图！",
+  "source": "beatapi",
+  "prompt": "3️⃣ 交给 GPT-6 ASTRA\n把多视图丢进去，让它理解前后左右俯仰的几何关系。约 10 分钟出外观模型，可下 FBX / Blender 源文件。机身按 600×440×850mm 重建，细节有简化。",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "SuSu_酥酥👅",
+  "authorLink": "https://x.com/NFT_Chen",
+  "source_url": "https://x.com/NFT_Chen/status/2096933995271557598",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-3d-557598/image-c877d69208d8.webp",
+  "imageUrl": "https://x.com/NFT_Chen/status/2096933995271557598",
+  "created_at": "2026-09-07T12:09:58.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096933995271557598",
+    "beatapi_slug": "gpt-6-astra-3d-557598",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

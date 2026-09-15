@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-used-gpt-6-astra-to-create-a-3d-model-of-the-083111",
+  "title": "I used GPT-6 Astra to create a 3D model of the vocal tract and larynx for speech and tts and sin",
+  "source": "beatapi",
+  "prompt": "I used GPT-6 Astra to create a 3D model of the vocal tract and larynx for speech and tts and singing modeling",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Darby 🖍️💫",
+  "authorLink": "https://x.com/Darbybailey",
+  "source_url": "https://x.com/Darbybailey/status/2096791633719083111",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-used-gpt-6-astra-to-create-a-3d-model-of-the-083111/poster-0ebc9a643354.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-used-gpt-6-astra-to-create-a-3d-model-of-the-083111/video-d736720205e1.webm",
+  "imageUrl": "https://x.com/Darbybailey/status/2096791633719083111",
+  "created_at": "2026-09-07T02:44:16.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096791633719083111",
+    "beatapi_slug": "i-used-gpt-6-astra-to-create-a-3d-model-of-the-083111",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

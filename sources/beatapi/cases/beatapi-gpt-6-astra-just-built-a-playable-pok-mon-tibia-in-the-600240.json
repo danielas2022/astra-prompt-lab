@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-just-built-a-playable-pok-mon-tibia-in-the-600240",
+  "title": "GPT-6 Astra just built a playable Pokémon Tibia in the browser with ONE prompt",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astra just built a playable Pokémon Tibia in the browser with ONE prompt.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Gabriel Dutra",
+  "authorLink": "https://x.com/gabrielgdutra",
+  "source_url": "https://x.com/gabrielgdutra/status/2096713342731600240",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-just-built-a-playable-pok-mon-tibia-in-the-600240/poster-f2363af34923.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-just-built-a-playable-pok-mon-tibia-in-the-600240/video-4cc2b28f346b.webm",
+  "imageUrl": "https://x.com/gabrielgdutra/status/2096713342731600240",
+  "created_at": "2026-09-06T21:33:10.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096713342731600240",
+    "beatapi_slug": "gpt-6-astra-just-built-a-playable-pok-mon-tibia-in-the-600240",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

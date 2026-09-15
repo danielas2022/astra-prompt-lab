@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-end-to-end-game-prototyping-with-1-prompt-is-officially-here-568577",
+  "title": "⚡ End-to-end game prototyping with 1 prompt is officially here.",
+  "source": "beatapi",
+  "prompt": "One-Prompt Game Pipeline: You type a game concept, and the agentic system plans the mechanics, generates the level assets, and structures the game logic end-to-end.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Dasep Moch Luay",
+  "authorLink": "https://x.com/dasepmochly",
+  "source_url": "https://x.com/dasepmochly/status/2096134318544568577",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/end-to-end-game-prototyping-with-1-prompt-is-officially-here-568577/poster-04f6d40198fe.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/end-to-end-game-prototyping-with-1-prompt-is-officially-here-568577/video-f704bd1a53a4.webm",
+  "imageUrl": "https://x.com/dasepmochly/status/2096134318544568577",
+  "created_at": "2026-09-05T07:12:20.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096134318544568577",
+    "beatapi_slug": "end-to-end-game-prototyping-with-1-prompt-is-officially-here-568577",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

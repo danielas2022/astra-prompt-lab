@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-i-had-early-access-to-gpt-6-astra-and-it-s-maybe-366501",
+  "title": "I had early access to GPT-6 Astra and it's maybe the most insane model I've experienced",
+  "source": "beatapi",
+  "prompt": "In Blender, I had it recreate Apple Park from just images.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Max Weinbach",
+  "authorLink": "https://x.com/mweinbach",
+  "source_url": "https://x.com/mweinbach/status/2095596127286366501",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-had-early-access-to-gpt-6-astra-and-it-s-maybe-366501/image-d224ed3f52c8.webp",
+  "imageUrl": "https://x.com/mweinbach/status/2095596127286366501",
+  "created_at": "2026-09-03T19:33:45.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095596127286366501",
+    "beatapi_slug": "i-had-early-access-to-gpt-6-astra-and-it-s-maybe-366501",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

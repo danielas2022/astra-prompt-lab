@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-i-just-asked-gpt-6-astra-to-write-a-full-game-and-874206",
+  "title": "I just asked gpt-6 astra to write a full game, and it made this all in one-shot!",
+  "source": "beatapi",
+  "prompt": "I just asked gpt-6 astra to write a full game, and it made this all in one-shot!",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Aryas",
+  "authorLink": "https://x.com/Aryvyo",
+  "source_url": "https://x.com/Aryvyo/status/2095826582006874206",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-just-asked-gpt-6-astra-to-write-a-full-game-and-874206/image-3aa85584c37e.webp",
+  "imageUrl": "https://x.com/Aryvyo/status/2095826582006874206",
+  "created_at": "2026-09-04T10:49:30.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095826582006874206",
+    "beatapi_slug": "i-just-asked-gpt-6-astra-to-write-a-full-game-and-874206",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

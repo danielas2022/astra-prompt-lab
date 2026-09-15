@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-holy-shit-i-asked-gpt-6-astra-to-make-a-simple-3d-986744",
+  "title": "HOLY SHIT! I asked GPT-6 Astra to make a simple 3D shooter using threejs. And here's the result",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to make a simple 3D shooter using threejs.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "This is Dmitry Zhomir",
+  "authorLink": "https://x.com/DemetriusZhomir",
+  "source_url": "https://x.com/DemetriusZhomir/status/2096723280186986744",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/holy-shit-i-asked-gpt-6-astra-to-make-a-simple-3d-986744/poster-78c738c49300.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/holy-shit-i-asked-gpt-6-astra-to-make-a-simple-3d-986744/video-650bb1dc0127.webm",
+  "imageUrl": "https://x.com/DemetriusZhomir/status/2096723280186986744",
+  "created_at": "2026-09-06T22:12:39.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096723280186986744",
+    "beatapi_slug": "holy-shit-i-asked-gpt-6-astra-to-make-a-simple-3d-986744",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

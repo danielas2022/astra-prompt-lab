@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-since-you-guys-loved-the-exploding-tesla-i-used-gpt-6-astra-400538",
+  "title": "Since you guys loved the exploding Tesla… I used GPT-6 Astra to build a 3D website that breaks d",
+  "source": "beatapi",
+  "prompt": "Since you guys loved the exploding Tesla… I used GPT-6 Astra to build a 3D website that breaks down the male anatomy into 2,234 individually modeled pieces!",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Cyber Leaks",
+  "authorLink": "https://x.com/Mohd_Jishan0",
+  "source_url": "https://x.com/Mohd_Jishan0/status/2096423862288400538",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/since-you-guys-loved-the-exploding-tesla-i-used-gpt-6-astra-400538/poster-c47bd451a28f.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/since-you-guys-loved-the-exploding-tesla-i-used-gpt-6-astra-400538/video-37f8173adbc7.webm",
+  "imageUrl": "https://x.com/Mohd_Jishan0/status/2096423862288400538",
+  "created_at": "2026-09-06T02:22:53.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096423862288400538",
+    "beatapi_slug": "since-you-guys-loved-the-exploding-tesla-i-used-gpt-6-astra-400538",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

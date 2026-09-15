@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-build-me-a-virtual-piano-in-970882",
+  "title": "I asked GPT-6 Astra to build me a virtual piano in Three.js",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to build me a virtual piano in Three.js.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Dana C",
+  "authorLink": "https://x.com/Dana_CRN",
+  "source_url": "https://x.com/Dana_CRN/status/2096629414414970882",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-build-me-a-virtual-piano-in-970882/poster-98e1cdf626e5.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-build-me-a-virtual-piano-in-970882/video-200bdcb040c1.webm",
+  "imageUrl": "https://x.com/Dana_CRN/status/2096629414414970882",
+  "created_at": "2026-09-06T15:59:40.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096629414414970882",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-build-me-a-virtual-piano-in-970882",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

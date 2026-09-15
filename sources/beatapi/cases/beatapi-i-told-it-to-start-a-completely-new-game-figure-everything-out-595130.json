@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-told-it-to-start-a-completely-new-game-figure-everything-out-595130",
+  "title": "I told it to start a completely new game, figure everything out on its own, and just play",
+  "source": "beatapi",
+  "prompt": "I told it to start a completely new game, figure everything out on its own, and just play.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Derya Unutmaz, MD",
+  "authorLink": "https://x.com/DeryaTR_",
+  "source_url": "https://x.com/DeryaTR_/status/2096791759166595130",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-told-it-to-start-a-completely-new-game-figure-everything-out-595130/poster-68e9bbc1ce83.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-told-it-to-start-a-completely-new-game-figure-everything-out-595130/video-593cc7037dc2.webm",
+  "imageUrl": "https://x.com/DeryaTR_/status/2096791759166595130",
+  "created_at": "2026-09-07T02:44:46.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096791759166595130",
+    "beatapi_slug": "i-told-it-to-start-a-completely-new-game-figure-everything-out-595130",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

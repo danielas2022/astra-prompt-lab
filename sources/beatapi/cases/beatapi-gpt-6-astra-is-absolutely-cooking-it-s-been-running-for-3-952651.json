@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-gpt-6-astra-is-absolutely-cooking-it-s-been-running-for-3-952651",
+  "title": "GPT-6 Astra is absolutely cooking It’s been running for 3 hours on xHigh and has only used 3% of",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astra is absolutely cooking It’s been running for 3 hours on xHigh and has only used 3% of my weekly quota, I asked it to build the Roman Colosseum in Blender and so far it’s doing an amazing job, If usage keeps scaling like this, I could theoretically keep Astra running for almost 100 hours.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Iam_",
+  "authorLink": "https://x.com/SPAC89",
+  "source_url": "https://x.com/SPAC89/status/2095996718126952651",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-absolutely-cooking-it-s-been-running-for-3-952651/image-d268ff6eb3b5.webp",
+  "imageUrl": "https://x.com/SPAC89/status/2095996718126952651",
+  "created_at": "2026-09-04T22:05:33.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095996718126952651",
+    "beatapi_slug": "gpt-6-astra-is-absolutely-cooking-it-s-been-running-for-3-952651",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

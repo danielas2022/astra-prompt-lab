@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-sorry-what-182751",
+  "title": "sorry, what?",
+  "source": "beatapi",
+  "prompt": "create a fully detailed pirate ship asset in blender",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Solipsnitsyn Renatus",
+  "authorLink": "https://x.com/SolipsRenatus",
+  "source_url": "https://x.com/SolipsRenatus/status/2096032918112182751",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/sorry-what-182751/image-b02565d1162f.webp",
+  "imageUrl": "https://x.com/SolipsRenatus/status/2096032918112182751",
+  "created_at": "2026-09-05T00:29:24.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096032918112182751",
+    "beatapi_slug": "sorry-what-182751",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

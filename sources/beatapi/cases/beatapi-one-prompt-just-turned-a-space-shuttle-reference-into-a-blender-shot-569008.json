@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-one-prompt-just-turned-a-space-shuttle-reference-into-a-blender-shot-569008",
+  "title": "One prompt just turned a Space Shuttle reference into a Blender shot that looks halfway to a movie.",
+  "source": "beatapi",
+  "prompt": "One prompt just turned a Space Shuttle reference into a Blender shot that looks halfway to a movie.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Rina",
+  "authorLink": "https://x.com/irinatoxi",
+  "source_url": "https://x.com/irinatoxi/status/2096278988687569008",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-just-turned-a-space-shuttle-reference-into-a-blender-shot-569008/poster-8eedcf424328.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-just-turned-a-space-shuttle-reference-into-a-blender-shot-569008/video-6d4d08f4c450.webm",
+  "imageUrl": "https://x.com/irinatoxi/status/2096278988687569008",
+  "created_at": "2026-09-05T16:47:12.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096278988687569008",
+    "beatapi_slug": "one-prompt-just-turned-a-space-shuttle-reference-into-a-blender-shot-569008",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

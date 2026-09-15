@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-one-prompt-27-minutes-a-game-for-my-kid-054342",
+  "title": "One prompt. 27 minutes. A game for my kid",
+  "source": "beatapi",
+  "prompt": "Make a game for my 3-year-old. He loves kinetic sand, trucks and dinosaurs.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "imoutoftokens",
+  "authorLink": "https://x.com/imoutoftokensFR",
+  "source_url": "https://x.com/imoutoftokensFR/status/2096202083561054342",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-27-minutes-a-game-for-my-kid-054342/poster-d07441f85b47.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-27-minutes-a-game-for-my-kid-054342/video-b211b3944f64.webm",
+  "imageUrl": "https://x.com/imoutoftokensFR/status/2096202083561054342",
+  "created_at": "2026-09-05T11:41:36.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096202083561054342",
+    "beatapi_slug": "one-prompt-27-minutes-a-game-for-my-kid-054342",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

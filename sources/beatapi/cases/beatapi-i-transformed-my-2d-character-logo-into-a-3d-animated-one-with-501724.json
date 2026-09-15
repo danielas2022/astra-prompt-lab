@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-transformed-my-2d-character-logo-into-a-3d-animated-one-with-501724",
+  "title": "I transformed my 2D character logo into a 3D animated one with GPT-6 Astra in 10 mins with one p",
+  "source": "beatapi",
+  "prompt": "I transformed my 2D character logo into a 3D animated one with GPT-6 Astra in 10 mins with one prompt 💀",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Anthony Riera",
+  "authorLink": "https://x.com/anthonyriera",
+  "source_url": "https://x.com/anthonyriera/status/2096559197999501724",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-transformed-my-2d-character-logo-into-a-3d-animated-one-with-501724/poster-bb452a23be94.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-transformed-my-2d-character-logo-into-a-3d-animated-one-with-501724/video-e39296106423.webm",
+  "imageUrl": "https://x.com/anthonyriera/status/2096559197999501724",
+  "created_at": "2026-09-06T11:20:39.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096559197999501724",
+    "beatapi_slug": "i-transformed-my-2d-character-logo-into-a-3d-animated-one-with-501724",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

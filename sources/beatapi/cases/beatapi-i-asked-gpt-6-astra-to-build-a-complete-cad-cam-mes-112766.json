@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-build-a-complete-cad-cam-mes-112766",
+  "title": "I asked GPT-6 Astra to build a complete CAD/CAM/MES system so our clients can quickly design and",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to build a complete CAD/CAM/MES system so our clients can quickly design and order cheap parts from our web site.",
+  "status": "unknown",
+  "tags": [],
+  "category": "cad-3d-printing",
+  "author": "Alfonso Tamés",
+  "authorLink": "https://x.com/alfonsotames",
+  "source_url": "https://x.com/alfonsotames/status/2096698742439112766",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-build-a-complete-cad-cam-mes-112766/poster-4f0d34109087.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-build-a-complete-cad-cam-mes-112766/video-bd0fb53ca6ea.webm",
+  "imageUrl": "https://x.com/alfonsotames/status/2096698742439112766",
+  "created_at": "2026-09-06T20:35:09.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096698742439112766",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-build-a-complete-cad-cam-mes-112766",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

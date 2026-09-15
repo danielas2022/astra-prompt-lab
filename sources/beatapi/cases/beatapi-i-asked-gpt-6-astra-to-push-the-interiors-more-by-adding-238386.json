@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-push-the-interiors-more-by-adding-238386",
+  "title": "I asked GPT-6 Astra to push the interiors more by adding textures, more complex geometry, and HD",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to push the interiors more by adding textures, more complex geometry, and HDRI lighting.\nI'm still amazed by what Astra can do with Blender.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Franco",
+  "authorLink": "https://x.com/sir_franco_",
+  "source_url": "https://x.com/sir_franco_/status/2097027608760238386",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-push-the-interiors-more-by-adding-238386/image-635e2ac17d2d.webp",
+  "imageUrl": "https://x.com/sir_franco_/status/2097027608760238386",
+  "created_at": "2026-09-07T18:21:57.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097027608760238386",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-push-the-interiors-more-by-adding-238386",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

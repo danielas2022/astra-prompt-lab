@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-asked-gpt-6-astra-to-recreate-the-2017-roblox-anthem-trailer-in-161673",
+  "title": "asked GPT 6 Astra to recreate the 2017 Roblox Anthem Trailer in Blender.",
+  "source": "beatapi",
+  "prompt": "asked GPT 6 Astra to recreate the 2017 Roblox Anthem Trailer in Blender.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "HeIsTrollingLolEhmmRofl ☭ᛦ",
+  "authorLink": "https://x.com/LeftWingFash",
+  "source_url": "https://x.com/LeftWingFash/status/2097193662283161673",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-recreate-the-2017-roblox-anthem-trailer-in-161673/poster-a74206d80996.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/asked-gpt-6-astra-to-recreate-the-2017-roblox-anthem-trailer-in-161673/video-29b10efc02bd.webm",
+  "imageUrl": "https://x.com/LeftWingFash/status/2097193662283161673",
+  "created_at": "2026-09-08T05:21:47.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097193662283161673",
+    "beatapi_slug": "asked-gpt-6-astra-to-recreate-the-2017-roblox-anthem-trailer-in-161673",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-build-a-new-3d-city-scene-for-me-i-want-several-type-834641",
+  "title": "Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there",
+  "source": "beatapi",
+  "prompt": "Build a new 3D city scene for me. I want several type of buildings (diff heights) and cars there. Also use roads, billboards and other elements that belong to a big city. Everything you need is in this folder Assets/ithappy/Cartoon_City_Free.",
+  "status": "unknown",
+  "tags": [],
+  "category": "game-engines",
+  "author": "Andrew Walko",
+  "authorLink": "https://x.com/AndrewWalko",
+  "source_url": "https://x.com/AndrewWalko/status/2095987508475834641",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/build-a-new-3d-city-scene-for-me-i-want-several-type-834641/poster-c31bc1cfb314.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/build-a-new-3d-city-scene-for-me-i-want-several-type-834641/video-f8d8ed010410.webm",
+  "imageUrl": "https://x.com/AndrewWalko/status/2095987508475834641",
+  "created_at": "2026-09-04T21:28:58.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095987508475834641",
+    "beatapi_slug": "build-a-new-3d-city-scene-for-me-i-want-several-type-834641",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

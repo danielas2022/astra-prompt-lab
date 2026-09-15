@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-yet-another-gpt-6-astra-demo-and-blender-demo-349434",
+  "title": "Yet another GPT 6 Astra demo and blender demo.",
+  "source": "beatapi",
+  "prompt": "I asked Astra to make me a dragon from a reference image and then export a 10 second video.\nThis is my first experiment where I asked Astra to used blender in headless mode and it wrote python scripts.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Sarang Borude",
+  "authorLink": "https://x.com/doomdave",
+  "source_url": "https://x.com/doomdave/status/2096335588727349434",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/yet-another-gpt-6-astra-demo-and-blender-demo-349434/poster-b7f4d589b2ad.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/yet-another-gpt-6-astra-demo-and-blender-demo-349434/video-6864fd509d19.webm",
+  "imageUrl": "https://x.com/doomdave/status/2096335588727349434",
+  "created_at": "2026-09-05T20:32:07.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096335588727349434",
+    "beatapi_slug": "yet-another-gpt-6-astra-demo-and-blender-demo-349434",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

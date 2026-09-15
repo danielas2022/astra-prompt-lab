@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gave-gpt-6-astra-aiff-audio-file-containing-a-dog-barking-and-844985",
+  "title": "gave GPT-6 Astra .aiff audio file containing a dog barking and asked it to reconstruct the space",
+  "source": "beatapi",
+  "prompt": "gave GPT-6 Astra .aiff audio file containing a dog barking and asked it to reconstruct the space - well, as best it could based on the sound\nFor a 2-minute clip, it’s not bad, but it’s not a 3D map (yet)",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Denis Shiryaev 💙💛",
+  "authorLink": "https://x.com/literallydenis",
+  "source_url": "https://x.com/literallydenis/status/2095989219390844985",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gave-gpt-6-astra-aiff-audio-file-containing-a-dog-barking-and-844985/poster-949367da0093.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gave-gpt-6-astra-aiff-audio-file-containing-a-dog-barking-and-844985/video-3a03959b5645.webm",
+  "imageUrl": "https://x.com/literallydenis/status/2095989219390844985",
+  "created_at": "2026-09-04T21:35:46.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095989219390844985",
+    "beatapi_slug": "gave-gpt-6-astra-aiff-audio-file-containing-a-dog-barking-and-844985",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-one-prompt-scene-code-blender-full-3d-render-fully-autonomous-664770",
+  "title": "One prompt → scene code → Blender → full 3D render, fully autonomous.",
+  "source": "beatapi",
+  "prompt": "One prompt → scene code → Blender → full 3D render, fully autonomous.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Amit nikhade",
+  "authorLink": "https://x.com/theamitnikhade",
+  "source_url": "https://x.com/theamitnikhade/status/2095767377300664770",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-scene-code-blender-full-3d-render-fully-autonomous-664770/poster-a89a63744862.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-prompt-scene-code-blender-full-3d-render-fully-autonomous-664770/video-12cc6044cb44.webm",
+  "imageUrl": "https://x.com/theamitnikhade/status/2095767377300664770",
+  "created_at": "2026-09-04T06:54:14.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095767377300664770",
+    "beatapi_slug": "one-prompt-scene-code-blender-full-3d-render-fully-autonomous-664770",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-recreate-spacex-s-raptor-3-in-589311",
+  "title": "i asked gpt-6 astra to recreate spacex’s raptor 3 in three.js.",
+  "source": "beatapi",
+  "prompt": "i asked gpt-6 astra to recreate spacex’s raptor 3 in three.js.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Alex Prokhorov",
+  "authorLink": "https://x.com/alexprokhorov",
+  "source_url": "https://x.com/alexprokhorov/status/2096151235493589311",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-recreate-spacex-s-raptor-3-in-589311/poster-f8b659d30ada.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-recreate-spacex-s-raptor-3-in-589311/video-faa1db9b6778.webm",
+  "imageUrl": "https://x.com/alexprokhorov/status/2096151235493589311",
+  "created_at": "2026-09-05T08:19:33.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096151235493589311",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-recreate-spacex-s-raptor-3-in-589311",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

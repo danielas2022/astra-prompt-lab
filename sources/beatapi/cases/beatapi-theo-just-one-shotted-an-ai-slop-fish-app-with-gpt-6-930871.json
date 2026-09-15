@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-theo-just-one-shotted-an-ai-slop-fish-app-with-gpt-6-930871",
+  "title": "@theo just one shotted an ai slop fish app with GPT-6 Astra",
+  "source": "beatapi",
+  "prompt": "so i just stole the idea, name, and copied one prompt and asked Astra to generate me a full game and WOW its crazy",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Servicer Of Software",
+  "authorLink": "https://x.com/nickaldn",
+  "source_url": "https://x.com/nickaldn/status/2096595129108930871",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/theo-just-one-shotted-an-ai-slop-fish-app-with-gpt-6-930871/poster-48ea8039c982.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/theo-just-one-shotted-an-ai-slop-fish-app-with-gpt-6-930871/video-274371c1d7e4.webm",
+  "imageUrl": "https://x.com/nickaldn/status/2096595129108930871",
+  "created_at": "2026-09-06T13:43:26.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096595129108930871",
+    "beatapi_slug": "theo-just-one-shotted-an-ai-slop-fish-app-with-gpt-6-930871",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-216201",
+  "title": "GPT 6 Astra やばいな…",
+  "source": "beatapi",
+  "prompt": "Blender を使って、ピクトグラムで学校の中を走る 15 秒の動画を作ってって言っただけで、このクオリティが出てきた。",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "結パパ",
+  "authorLink": "https://x.com/Yuupapa_free",
+  "source_url": "https://x.com/Yuupapa_free/status/2096432585111216201",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-216201/poster-a3cfc13f6615.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-216201/video-f05d7f5322cb.webm",
+  "imageUrl": "https://x.com/Yuupapa_free/status/2096432585111216201",
+  "created_at": "2026-09-06T02:57:32.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096432585111216201",
+    "beatapi_slug": "gpt-6-astra-216201",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

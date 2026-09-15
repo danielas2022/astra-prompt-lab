@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-in-august-2022-before-chatgpt-ai-scared-me-605581",
+  "title": "In August 2022, before ChatGPT, AI scared me.",
+  "source": "beatapi",
+  "prompt": "Then I asked ChatGPT to make a flythrough of the 3D model for a game video.",
+  "status": "unknown",
+  "tags": [],
+  "category": "product-visualization",
+  "author": "Artem Vysotsky",
+  "authorLink": "https://x.com/avysotsky",
+  "source_url": "https://x.com/avysotsky/status/2096453673530605581",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/in-august-2022-before-chatgpt-ai-scared-me-605581/poster-fdabe88d3967.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/in-august-2022-before-chatgpt-ai-scared-me-605581/video-5a582150ae9c.webm",
+  "imageUrl": "https://x.com/avysotsky/status/2096453673530605581",
+  "created_at": "2026-09-06T04:21:20.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096453673530605581",
+    "beatapi_slug": "in-august-2022-before-chatgpt-ai-scared-me-605581",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

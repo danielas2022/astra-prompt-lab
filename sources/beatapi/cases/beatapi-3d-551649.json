@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-3d-551649",
+  "title": "一张图，直接变成一个能“逛”的 3D 世界",
+  "source": "beatapi",
+  "prompt": "我把这张赛博城市概念图丢给 GPT-6 Astra，让它自己理解空间、光照和画面层次，然后直接用 Three.js 写成一个单文件 3D 场景。",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Adam也叫吉米",
+  "authorLink": "https://x.com/Adam38363368936",
+  "source_url": "https://x.com/Adam38363368936/status/2096787471107551649",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/3d-551649/image-657458bc471a.webp",
+  "imageUrl": "https://x.com/Adam38363368936/status/2096787471107551649",
+  "created_at": "2026-09-07T02:27:44.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096787471107551649",
+    "beatapi_slug": "3d-551649",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

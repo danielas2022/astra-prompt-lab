@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155",
+  "title": "everyone is using GPT-6 Astra to make games... i had it build me a robot prototyper",
+  "source": "beatapi",
+  "prompt": "prototype me a full Microduck",
+  "status": "unknown",
+  "tags": [],
+  "category": "cad-3d-printing",
+  "author": "Ronin",
+  "authorLink": "https://x.com/DeRonin_",
+  "source_url": "https://x.com/DeRonin_/status/2096567918859354155",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155/poster-89bd3b9075e3.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155/video-83276eb68915.webm",
+  "imageUrl": "https://x.com/DeRonin_/status/2096567918859354155",
+  "created_at": "2026-09-06T11:55:18.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096567918859354155",
+    "beatapi_slug": "everyone-is-using-gpt-6-astra-to-make-games-i-had-it-354155",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

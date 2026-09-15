@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-took-20-mins-to-build-this-clone-188768",
+  "title": "GPT 6 Astra took 20 mins to build this clone",
+  "source": "beatapi",
+  "prompt": "build subway surfers clone",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Sahil Panhotra | Indie Builder",
+  "authorLink": "https://x.com/SahilPanhotra",
+  "source_url": "https://x.com/SahilPanhotra/status/2096184406734188768",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-took-20-mins-to-build-this-clone-188768/poster-f612e8b98504.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-took-20-mins-to-build-this-clone-188768/video-dbb6ed86f90d.webm",
+  "imageUrl": "https://x.com/SahilPanhotra/status/2096184406734188768",
+  "created_at": "2026-09-05T10:31:22.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096184406734188768",
+    "beatapi_slug": "gpt-6-astra-took-20-mins-to-build-this-clone-188768",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

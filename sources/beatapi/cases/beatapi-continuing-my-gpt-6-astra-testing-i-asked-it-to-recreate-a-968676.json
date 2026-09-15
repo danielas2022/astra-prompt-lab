@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-continuing-my-gpt-6-astra-testing-i-asked-it-to-recreate-a-968676",
+  "title": "Continuing my GPT-6 Astra testing: I asked it to recreate a scene from Max Payne in Blender",
+  "source": "beatapi",
+  "prompt": "Continuing my GPT-6 Astra testing: I asked it to recreate a scene from Max Payne in Blender.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "taesiri",
+  "authorLink": "https://x.com/taesiri",
+  "source_url": "https://x.com/taesiri/status/2096710839478968676",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/continuing-my-gpt-6-astra-testing-i-asked-it-to-recreate-a-968676/image-5ddcb6251434.webp",
+  "imageUrl": "https://x.com/taesiri/status/2096710839478968676",
+  "created_at": "2026-09-06T21:23:13.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096710839478968676",
+    "beatapi_slug": "continuing-my-gpt-6-astra-testing-i-asked-it-to-recreate-a-968676",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

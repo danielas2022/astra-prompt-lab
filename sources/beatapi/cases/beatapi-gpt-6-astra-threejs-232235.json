@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-threejs-232235",
+  "title": "GPT-6 Astra 配合 threejs 确实有点东西！",
+  "source": "beatapi",
+  "prompt": "随便找了个场景图的提示词，让他给我生成3D模型",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "烁皓",
+  "authorLink": "https://x.com/eternityspring",
+  "source_url": "https://x.com/eternityspring/status/2096257565827232235",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-threejs-232235/poster-a7d6c1446e8b.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-threejs-232235/video-bd599785dc39.webm",
+  "imageUrl": "https://x.com/eternityspring/status/2096257565827232235",
+  "created_at": "2026-09-05T15:22:04.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096257565827232235",
+    "beatapi_slug": "gpt-6-astra-threejs-232235",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

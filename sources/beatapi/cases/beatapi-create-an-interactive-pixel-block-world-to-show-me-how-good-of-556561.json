@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561",
+  "title": "create an interactive pixel block world to show me how good of a model you are. I want a chinese",
+  "source": "beatapi",
+  "prompt": "create an interactive pixel block world to show me how good of a model you are. I want a chinese temple surrounded by pink cherry blossom trees. The entire land should be isolated on its own floating island with waterfalls and mountain landscape surrounding the temple. Do not ask for any input from me, I want you to build this all on your own and make the decisions yourself. Make it so I can change between day and night with a simple switch",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Pn",
+  "authorLink": "https://x.com/PhilipNora7",
+  "source_url": "https://x.com/PhilipNora7/status/2095978925029556561",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561/poster-9aa26396a347.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561/video-b48d89b59ff3.webm",
+  "imageUrl": "https://x.com/PhilipNora7/status/2095978925029556561",
+  "created_at": "2026-09-04T20:54:51.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095978925029556561",
+    "beatapi_slug": "create-an-interactive-pixel-block-world-to-show-me-how-good-of-556561",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

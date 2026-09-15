@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-287390",
+  "title": "GPT-6 Astraが完全自動でポン出し",
+  "source": "beatapi",
+  "prompt": "基本的にやることは「こんなゲームを作って」と",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "ガガロット",
+  "authorLink": "https://x.com/gagarot200",
+  "source_url": "https://x.com/gagarot200/status/2095789680931287390",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-287390/poster-b776b7ebfe2d.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-287390/video-3815b7e4ac1c.webm",
+  "imageUrl": "https://x.com/gagarot200/status/2095789680931287390",
+  "created_at": "2026-09-04T08:22:52.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095789680931287390",
+    "beatapi_slug": "gpt-6-astra-287390",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

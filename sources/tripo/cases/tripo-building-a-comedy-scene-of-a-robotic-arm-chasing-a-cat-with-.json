@@ -1,0 +1,21 @@
+{
+  "id": "tripo-building-a-comedy-scene-of-a-robotic-arm-chasing-a-cat-with-",
+  "title": "Building a Comedy Scene of a Robotic Arm Chasing a Cat with GPT-6 Astra and Blender",
+  "source": "tripo",
+  "prompt": "Prompt details not available in README",
+  "status": "success",
+  "tags": [
+    "tripo-curated"
+  ],
+  "author": "2026-09-09",
+  "upstreamUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+  "attribution": {
+    "name": "TripoGrowthLab awesome-astra-prompts",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  "notes": "Community-curated growth list (NOT product-official). Curated showcase example.",
+  "metadata": {
+    "tripo_anchor": "2097675660873605422",
+    "readme_line": 84
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-we-built-a-tiny-world-with-gpt-6-astra-922653",
+  "title": "we built a tiny world with GPT-6 Astra.",
+  "source": "beatapi",
+  "prompt": "we built a tiny world with GPT-6 Astra.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Coursiv · Learn AI Skills",
+  "authorLink": "https://x.com/Coursiv_io",
+  "source_url": "https://x.com/Coursiv_io/status/2097061541069922653",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/we-built-a-tiny-world-with-gpt-6-astra-922653/poster-d23e86f6f91d.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/we-built-a-tiny-world-with-gpt-6-astra-922653/video-012694f32167.webm",
+  "imageUrl": "https://x.com/Coursiv_io/status/2097061541069922653",
+  "created_at": "2026-09-07T20:36:47.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097061541069922653",
+    "beatapi_slug": "we-built-a-tiny-world-with-gpt-6-astra-922653",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

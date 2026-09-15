@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-goddamn-gpt-6-astra-is-something-really-astraordinary-178503",
+  "title": "Goddamn, GPT-6 Astra is something really Astraordinary",
+  "source": "beatapi",
+  "prompt": "I gave it a 3D model and asked it to auto rig the character and add animations like walking, running and a few Kung Fu moves...",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "The Bugged Dev",
+  "authorLink": "https://x.com/thebuggeddev",
+  "source_url": "https://x.com/thebuggeddev/status/2096141728487178503",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/goddamn-gpt-6-astra-is-something-really-astraordinary-178503/poster-ba7ba3c51534.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/goddamn-gpt-6-astra-is-something-really-astraordinary-178503/video-cf6a61c0f282.webm",
+  "imageUrl": "https://x.com/thebuggeddev/status/2096141728487178503",
+  "created_at": "2026-09-05T07:41:47.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096141728487178503",
+    "beatapi_slug": "goddamn-gpt-6-astra-is-something-really-astraordinary-178503",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

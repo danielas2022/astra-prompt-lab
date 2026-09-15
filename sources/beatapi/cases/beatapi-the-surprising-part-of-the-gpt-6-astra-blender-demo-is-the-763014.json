@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-the-surprising-part-of-the-gpt-6-astra-blender-demo-is-the-763014",
+  "title": "The surprising part of the GPT 6 Astra Blender demo is the workflow, not the backrooms scene: on",
+  "source": "beatapi",
+  "prompt": "The surprising part of the GPT 6 Astra Blender demo is the workflow, not the backrooms scene: one prompt asks for the room, VHS-style effects, and sound effects, and the claimed result is automatic scene build, stylization, and audio inside Blender.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "nomad",
+  "authorLink": "https://x.com/nomadfr3ak",
+  "source_url": "https://x.com/nomadfr3ak/status/2096627356194763014",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/the-surprising-part-of-the-gpt-6-astra-blender-demo-is-the-763014/poster-cef48a1d74d5.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/the-surprising-part-of-the-gpt-6-astra-blender-demo-is-the-763014/video-57d9fa0960af.webm",
+  "imageUrl": "https://x.com/nomadfr3ak/status/2096627356194763014",
+  "created_at": "2026-09-06T15:51:29.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096627356194763014",
+    "beatapi_slug": "the-surprising-part-of-the-gpt-6-astra-blender-demo-is-the-763014",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

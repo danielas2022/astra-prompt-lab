@@ -1,0 +1,21 @@
+{
+  "id": "tripo-build-a-3d-racer",
+  "title": "Build a 3D racer",
+  "source": "tripo",
+  "prompt": "Prompt details not available in README",
+  "status": "success",
+  "tags": [
+    "tripo-curated"
+  ],
+  "author": "2026-09-12",
+  "upstreamUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+  "attribution": {
+    "name": "TripoGrowthLab awesome-astra-prompts",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  "notes": "Community-curated growth list (NOT product-official). Curated showcase example.",
+  "metadata": {
+    "tripo_anchor": "2098749876620415165",
+    "readme_line": 107
+  }
+}

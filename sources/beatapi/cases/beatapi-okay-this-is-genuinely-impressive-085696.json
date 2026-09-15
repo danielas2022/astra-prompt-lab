@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-okay-this-is-genuinely-impressive-085696",
+  "title": "Okay, this is genuinely impressive.",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to help me understand my own ankle pain.\nIt gave me a full interactive 3D atlas — bones, ligaments, tendons, real motion axes, sliders for plantarflexion and inversion, and a live readout of what each ligament is doing.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Emanuel AOF",
+  "authorLink": "https://x.com/Emanuel_Andre7",
+  "source_url": "https://x.com/Emanuel_Andre7/status/2096528986390085696",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/okay-this-is-genuinely-impressive-085696/poster-6ba239cbfe98.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/okay-this-is-genuinely-impressive-085696/video-aa264cd45884.webm",
+  "imageUrl": "https://x.com/Emanuel_Andre7/status/2096528986390085696",
+  "created_at": "2026-09-06T09:20:36.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096528986390085696",
+    "beatapi_slug": "okay-this-is-genuinely-impressive-085696",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-using-gpt-6-astra-with-blender-i-just-made-something-that-made-048605",
+  "title": "Using GPT-6 Astra with Blender, I just made something that made me very emotional: a Mac app sim",
+  "source": "beatapi",
+  "prompt": "Using GPT-6 Astra with Blender, I just made something that made me very emotional: a Mac app simulation of my very first computer, the Sinclair ZX Spectrum 48K, which I used more than 40 years ago!",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Derya Unutmaz, MD",
+  "authorLink": "https://x.com/DeryaTR_",
+  "source_url": "https://x.com/DeryaTR_/status/2096062355692048605",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/using-gpt-6-astra-with-blender-i-just-made-something-that-made-048605/poster-946a6367b8de.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/using-gpt-6-astra-with-blender-i-just-made-something-that-made-048605/video-bd7f0ba70f88.webm",
+  "imageUrl": "https://x.com/DeryaTR_/status/2096062355692048605",
+  "created_at": "2026-09-05T02:26:23.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096062355692048605",
+    "beatapi_slug": "using-gpt-6-astra-with-blender-i-just-made-something-that-made-048605",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

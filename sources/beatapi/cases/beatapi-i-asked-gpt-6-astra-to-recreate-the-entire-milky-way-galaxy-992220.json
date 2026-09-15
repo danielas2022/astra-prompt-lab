@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-recreate-the-entire-milky-way-galaxy-992220",
+  "title": "I asked GPT-6 Astra to recreate the entire Milky Way galaxy down to the atomic level and create",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to recreate the entire Milky Way galaxy down to the atomic level and create a scale comparison video in Blender.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Tanishq (tk)",
+  "authorLink": "https://x.com/tanishqk",
+  "source_url": "https://x.com/tanishqk/status/2096010132991992220",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-recreate-the-entire-milky-way-galaxy-992220/poster-e0d612d9d61b.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-recreate-the-entire-milky-way-galaxy-992220/video-14b61abd2297.webm",
+  "imageUrl": "https://x.com/tanishqk/status/2096010132991992220",
+  "created_at": "2026-09-04T22:58:52.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096010132991992220",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-recreate-the-entire-milky-way-galaxy-992220",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

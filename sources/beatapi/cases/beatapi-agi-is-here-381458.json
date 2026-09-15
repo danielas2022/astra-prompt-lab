@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-agi-is-here-381458",
+  "title": "AGI is here.",
+  "source": "beatapi",
+  "prompt": "I was trying to teach my son about physics and @SpaceX, so I asked @OpenAI’s GPT-6 Astra to make a demonstration.\nWe ended up with an addictive Super Heavy catch game built around SpaceX’s Louisiana renderings and published rocket dimensions, with gravity, drag, thrust and fuel burn modeled.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "KD101",
+  "authorLink": "https://x.com/KushDaddyOG101",
+  "source_url": "https://x.com/KushDaddyOG101/status/2097076033564381458",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/agi-is-here-381458/poster-bfa5a808b9d4.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/agi-is-here-381458/video-5f57315ebe71.webm",
+  "imageUrl": "https://x.com/KushDaddyOG101/status/2097076033564381458",
+  "created_at": "2026-09-07T21:34:22.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097076033564381458",
+    "beatapi_slug": "agi-is-here-381458",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

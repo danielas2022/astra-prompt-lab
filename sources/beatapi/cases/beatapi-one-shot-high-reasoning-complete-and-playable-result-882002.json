@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-one-shot-high-reasoning-complete-and-playable-result-882002",
+  "title": "→ One shot, high reasoning, complete and playable result",
+  "source": "beatapi",
+  "prompt": "→ One shot, high reasoning, complete and playable result",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "0xMarioNawfal",
+  "authorLink": "https://x.com/RoundtableSpace",
+  "source_url": "https://x.com/RoundtableSpace/status/2096421878931882002",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-shot-high-reasoning-complete-and-playable-result-882002/poster-90f535465cba.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/one-shot-high-reasoning-complete-and-playable-result-882002/video-6a7b12859de5.webm",
+  "imageUrl": "https://x.com/RoundtableSpace/status/2096421878931882002",
+  "created_at": "2026-09-06T02:15:00.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096421878931882002",
+    "beatapi_slug": "one-shot-high-reasoning-complete-and-playable-result-882002",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

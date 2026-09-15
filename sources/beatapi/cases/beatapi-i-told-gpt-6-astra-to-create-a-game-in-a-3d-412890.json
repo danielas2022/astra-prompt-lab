@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-i-told-gpt-6-astra-to-create-a-game-in-a-3d-412890",
+  "title": "I told GPT 6 Astra to create a game in a 3D world using my custom Rust game lib, and three.js",
+  "source": "beatapi",
+  "prompt": "I told GPT 6 Astra to create a game in a 3D world using my custom Rust game lib, and three.js.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Captain Vacuum",
+  "authorLink": "https://x.com/captainvacuum",
+  "source_url": "https://x.com/captainvacuum/status/2096073167127412890",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-told-gpt-6-astra-to-create-a-game-in-a-3d-412890/image-bb32c65912cc.webp",
+  "imageUrl": "https://x.com/captainvacuum/status/2096073167127412890",
+  "created_at": "2026-09-05T03:09:20.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096073167127412890",
+    "beatapi_slug": "i-told-gpt-6-astra-to-create-a-game-in-a-3d-412890",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

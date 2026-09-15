@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-build-a-game-where-i-m-664627",
+  "title": "I asked GPT-6 Astra to build a game where I'm a fish.",
+  "source": "beatapi",
+  "prompt": "I want to create a fish simulator game.. where we are a fish (which you should be able to select).. we start inside a house aquarium where food particles are falling down or spawns or whatever.. we can swim to them and eat the food to grow bigger.. and there might also be obstacles and stuff that damage us to make us smaller. then as we level up we jump into a bigger area progressively until we reach the ocean and stuff. The food we eat can kee cahnging, we can eat other fish and other creatures and all that.\nFirst define the full gameply loop and level designs and stuff for this game into a md file and then implement into a game I can play locally on my browser. select the tech stack that is required",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Ayush Vachaspati",
+  "authorLink": "https://x.com/AVachaspat92841",
+  "source_url": "https://x.com/AVachaspat92841/status/2096156244180664627",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-build-a-game-where-i-m-664627/poster-09dab5911806.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-build-a-game-where-i-m-664627/video-f24a59ce06a6.webm",
+  "imageUrl": "https://x.com/AVachaspat92841/status/2096156244180664627",
+  "created_at": "2026-09-05T08:39:27.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096156244180664627",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-build-a-game-where-i-m-664627",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

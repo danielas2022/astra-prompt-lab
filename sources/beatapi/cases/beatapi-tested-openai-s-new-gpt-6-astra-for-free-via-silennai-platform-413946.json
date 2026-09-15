@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-tested-openai-s-new-gpt-6-astra-for-free-via-silennai-platform-413946",
+  "title": "tested OpenAI's new GPT-6 Astra for free via @silennai platform (platform . xplabs . ai).",
+  "source": "beatapi",
+  "prompt": "this is complete, multi-file spatial game loop logic generated in one prompt with zero compilation errors.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "MotionViz",
+  "authorLink": "https://x.com/Motion_Viz",
+  "source_url": "https://x.com/Motion_Viz/status/2096155883122413946",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/tested-openai-s-new-gpt-6-astra-for-free-via-silennai-platform-413946/poster-ac3a2bd9d46c.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/tested-openai-s-new-gpt-6-astra-for-free-via-silennai-platform-413946/video-aa920a74651d.webm",
+  "imageUrl": "https://x.com/Motion_Viz/status/2096155883122413946",
+  "created_at": "2026-09-05T08:38:01.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096155883122413946",
+    "beatapi_slug": "tested-openai-s-new-gpt-6-astra-for-free-via-silennai-platform-413946",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

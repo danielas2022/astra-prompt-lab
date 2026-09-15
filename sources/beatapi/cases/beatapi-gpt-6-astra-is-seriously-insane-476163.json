@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-is-seriously-insane-476163",
+  "title": "GPT-6 Astra is seriously insane.",
+  "source": "beatapi",
+  "prompt": "Make me a GTA-style open-world game set around Cheonggyecheon in Seoul.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Superlob",
+  "authorLink": "https://x.com/Superlob_com",
+  "source_url": "https://x.com/Superlob_com/status/2096584379682476163",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-seriously-insane-476163/poster-ba476c82cffe.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-is-seriously-insane-476163/video-37851ada7e18.webm",
+  "imageUrl": "https://x.com/Superlob_com/status/2096584379682476163",
+  "created_at": "2026-09-06T13:00:43.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096584379682476163",
+    "beatapi_slug": "gpt-6-astra-is-seriously-insane-476163",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

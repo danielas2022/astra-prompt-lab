@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-gpt-6-astra-636816",
+  "title": "GPT-6 Astraのモデル性能評価",
+  "source": "beatapi",
+  "prompt": "モデル性能評価試験\nblenderを使用してデザインや見た目重視の近未来バイク、近未来戦車、それに合う撮影用背景のモデルを作成して複数カットのスクショを撮って MCPも使えるはずだけど一番クォリティーを出せる使い方を任せる",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "ステスロス@2号機",
+  "authorLink": "https://x.com/StelsRay2",
+  "source_url": "https://x.com/StelsRay2/status/2096083014845636816",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-636816/image-af4ea8d84147.webp",
+  "imageUrl": "https://x.com/StelsRay2/status/2096083014845636816",
+  "created_at": "2026-09-05T03:48:28.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096083014845636816",
+    "beatapi_slug": "gpt-6-astra-636816",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

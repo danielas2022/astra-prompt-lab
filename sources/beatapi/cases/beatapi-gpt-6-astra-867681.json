@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-867681",
+  "title": "GPT-6 Astraさん...僕は「ガチャ演出作って」って言っただけなんですよ。",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astraさん...僕は「ガチャ演出作って」って言っただけなんですよ。\n...なのになんで操作できるガチャゲーム自体をネット公開できる状態で作っちゃったんですか？",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "ギガビット@ゲームつくるひと",
+  "authorLink": "https://x.com/gigabit_million",
+  "source_url": "https://x.com/gigabit_million/status/2096094717989867681",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-867681/poster-b6b644a792d7.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-867681/video-288cca950c4e.webm",
+  "imageUrl": "https://x.com/gigabit_million/status/2096094717989867681",
+  "created_at": "2026-09-05T04:34:58.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096094717989867681",
+    "beatapi_slug": "gpt-6-astra-867681",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

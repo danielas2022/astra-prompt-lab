@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-pc-20-136058",
+  "title": "📝【自分用メモ】GPT-6 Astraの「PCやソフト操作」追加20選",
+  "source": "beatapi",
+  "prompt": "「GPT-6 Astra, use Ableton Live and make an absolute banger」\n\nTake control of my computer using GPT-6 Astra and do the following:\n1. design a character concept\n2. build a textured 3D model\n3. import it into Blender\n4. retopologize\n5. create a UV map\n6. build a character rig\n7. evaluate production-readiness\n8. redo if not satisfied\n9. turn it into a cartoon",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "テツメモ｜AI図解×検証｜Newsletter",
+  "authorLink": "https://x.com/tetumemo",
+  "source_url": "https://x.com/tetumemo/status/2096470599963136058",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-pc-20-136058/poster-b8b18fb9cf85.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-pc-20-136058/video-a2ec0d4122b3.webm",
+  "imageUrl": "https://x.com/tetumemo/status/2096470599963136058",
+  "created_at": "2026-09-06T05:28:36.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096470599963136058",
+    "beatapi_slug": "gpt-6-astra-pc-20-136058",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

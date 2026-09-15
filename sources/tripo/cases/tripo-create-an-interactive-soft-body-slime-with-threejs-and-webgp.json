@@ -1,0 +1,21 @@
+{
+  "id": "tripo-create-an-interactive-soft-body-slime-with-threejs-and-webgp",
+  "title": "Create an Interactive Soft-Body Slime with Three.js and WebGPU",
+  "source": "tripo",
+  "prompt": "Prompt details not available in README",
+  "status": "success",
+  "tags": [
+    "tripo-curated"
+  ],
+  "author": "2026-09-07",
+  "upstreamUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts",
+  "attribution": {
+    "name": "TripoGrowthLab awesome-astra-prompts",
+    "url": "https://github.com/TripoGrowthLab/awesome-astra-prompts"
+  },
+  "notes": "Community-curated growth list (NOT product-official). Curated showcase example.",
+  "metadata": {
+    "tripo_anchor": "2096793432987464010",
+    "readme_line": 66
+  }
+}

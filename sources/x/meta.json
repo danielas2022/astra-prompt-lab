@@ -5,7 +5,8 @@
   "description": "Real-world failure cases prioritized",
   "cadence": "continuous",
   "priority": "status=fail",
-  "lastHarvest": null,
+  "lastHarvest": "2026-09-15T13:34:00Z",
   "totalCases": 0,
-  "status": "pending_first_harvest"
+  "status": "empty_first_pass",
+  "notes": "First harvest pass on 2026-09-15: Web search found workflow/MCP/Blender failure writeups but no discrete tweet-level prompt fail cases with concrete prompt + failure details. BeatAPI and Tripo entries already cover success/unknown cases. Did not fabricate failures. Will prioritize fail cases in future harvests when real examples emerge."
 }

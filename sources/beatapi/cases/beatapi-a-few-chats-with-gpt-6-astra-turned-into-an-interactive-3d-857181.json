@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-a-few-chats-with-gpt-6-astra-turned-into-an-interactive-3d-857181",
+  "title": "💥 A few chats with GPT-6 Astra turned into an interactive 3D Chinese courtyard!",
+  "source": "beatapi",
+  "prompt": "Build an interactive Chinese courtyard using Blender and Three.js that I can explore in a browser.\n\nInclude white walls, dark tiled roofs, a moon gate, pine trees, a pond, and a rock garden, with a living room, tea room, and bedroom. Use Python to run Blender in the background, generate the models, and export GLB files. Use Three.js for lighting, reflections, animation, and interaction.\n\nSupport orbit controls, zoom, WASD navigation, day/night switching, and a roof toggle. Gradually add flowing water, koi, hopping frogs, dragonflies, a courtyard cat, sparrows, and nighttime fireflies. Keep movements subtle and natural.\n\nCreate an original interface that leaves the scene unobstructed. Build in stages, inspect the results in the browser, fix issues, and deliver the runnable project, source files, and setup instructions.",
+  "status": "unknown",
+  "tags": [],
+  "category": "web-3d",
+  "author": "Larus Canus",
+  "authorLink": "https://x.com/MrLarus",
+  "source_url": "https://x.com/MrLarus/status/2096971051334857181",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/a-few-chats-with-gpt-6-astra-turned-into-an-interactive-3d-857181/poster-2ba2af73f300.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/a-few-chats-with-gpt-6-astra-turned-into-an-interactive-3d-857181/video-59479f233d0b.webm",
+  "imageUrl": "https://x.com/MrLarus/status/2096971051334857181",
+  "created_at": "2026-09-07T14:37:13.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096971051334857181",
+    "beatapi_slug": "a-few-chats-with-gpt-6-astra-turned-into-an-interactive-3d-857181",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

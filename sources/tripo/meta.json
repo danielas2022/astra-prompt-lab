@@ -4,7 +4,12 @@
   "upstreamUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts",
   "description": "Community-curated growth list (NOT product-official)",
   "cadence": "daily",
-  "lastSync": null,
-  "totalCases": 0,
-  "status": "pending_first_sync"
+  "lastSync": "2026-09-15T13:35:50.967Z",
+  "totalCases": 96,
+  "status": "synced",
+  "upstream": {
+    "commit": "d8c06f4",
+    "totalEntries": 96,
+    "syncedAt": "2026-09-15T13:35:50.967Z"
+  }
 }

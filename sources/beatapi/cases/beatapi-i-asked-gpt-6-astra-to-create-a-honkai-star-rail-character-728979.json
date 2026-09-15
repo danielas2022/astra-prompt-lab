@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-i-asked-gpt-6-astra-to-create-a-honkai-star-rail-character-728979",
+  "title": "I asked GPT-6 Astra to create a Honkai Star Rail character, and the results are amazing!",
+  "source": "beatapi",
+  "prompt": "I asked GPT-6 Astra to create a Honkai Star Rail character, and the results are amazing!",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Wurmplize",
+  "authorLink": "https://x.com/Wurmplize",
+  "source_url": "https://x.com/Wurmplize/status/2097236088754728979",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-create-a-honkai-star-rail-character-728979/poster-5e7da2896abf.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/i-asked-gpt-6-astra-to-create-a-honkai-star-rail-character-728979/video-16ceb4707aa7.webm",
+  "imageUrl": "https://x.com/Wurmplize/status/2097236088754728979",
+  "created_at": "2026-09-08T08:10:22.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097236088754728979",
+    "beatapi_slug": "i-asked-gpt-6-astra-to-create-a-honkai-star-rail-character-728979",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

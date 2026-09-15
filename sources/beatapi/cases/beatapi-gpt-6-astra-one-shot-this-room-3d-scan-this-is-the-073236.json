@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-one-shot-this-room-3d-scan-this-is-the-073236",
+  "title": "GPT 6 Astra one shot this room 3D scan. This is the new app I started working for #shipaton",
+  "source": "beatapi",
+  "prompt": "GPT 6 Astra one shot this room 3D scan.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Karma",
+  "authorLink": "https://x.com/CodeWithKarma",
+  "source_url": "https://x.com/CodeWithKarma/status/2096795134579073236",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-one-shot-this-room-3d-scan-this-is-the-073236/poster-990daeb4157e.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-one-shot-this-room-3d-scan-this-is-the-073236/video-7928731f27b8.webm",
+  "imageUrl": "https://x.com/CodeWithKarma/status/2096795134579073236",
+  "created_at": "2026-09-07T02:58:11.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096795134579073236",
+    "beatapi_slug": "gpt-6-astra-one-shot-this-room-3d-scan-this-is-the-073236",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

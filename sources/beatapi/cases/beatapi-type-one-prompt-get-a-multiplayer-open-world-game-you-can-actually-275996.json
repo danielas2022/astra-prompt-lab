@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-type-one-prompt-get-a-multiplayer-open-world-game-you-can-actually-275996",
+  "title": "Type one prompt, get a multiplayer open-world game you can actually deploy.",
+  "source": "beatapi",
+  "prompt": "Type one prompt, get a multiplayer open-world game you can actually deploy.",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Sahil Verma",
+  "authorLink": "https://x.com/sahilvermaai",
+  "source_url": "https://x.com/sahilvermaai/status/2097005275404275996",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/type-one-prompt-get-a-multiplayer-open-world-game-you-can-actually-275996/poster-29de2ce43f81.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/type-one-prompt-get-a-multiplayer-open-world-game-you-can-actually-275996/video-f63a671abcab.webm",
+  "imageUrl": "https://x.com/sahilvermaai/status/2097005275404275996",
+  "created_at": "2026-09-07T16:53:12.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2097005275404275996",
+    "beatapi_slug": "type-one-prompt-get-a-multiplayer-open-world-game-you-can-actually-275996",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

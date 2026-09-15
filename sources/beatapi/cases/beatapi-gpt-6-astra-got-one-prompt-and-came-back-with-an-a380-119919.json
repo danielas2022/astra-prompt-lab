@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-got-one-prompt-and-came-back-with-an-a380-119919",
+  "title": "GPT-6 Astra got one prompt and came back with an A380 sitting inside Blender.",
+  "source": "beatapi",
+  "prompt": "GPT-6 Astra got one prompt and came back with an A380 sitting inside Blender.",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Rina",
+  "authorLink": "https://x.com/irinatoxi",
+  "source_url": "https://x.com/irinatoxi/status/2095991176411119919",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-got-one-prompt-and-came-back-with-an-a380-119919/poster-ac12d2c85433.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-got-one-prompt-and-came-back-with-an-a380-119919/video-ad50a46f6569.webm",
+  "imageUrl": "https://x.com/irinatoxi/status/2095991176411119919",
+  "created_at": "2026-09-04T21:43:32.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095991176411119919",
+    "beatapi_slug": "gpt-6-astra-got-one-prompt-and-came-back-with-an-a380-119919",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

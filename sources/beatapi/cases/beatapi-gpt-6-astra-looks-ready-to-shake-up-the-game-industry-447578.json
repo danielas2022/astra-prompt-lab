@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-gpt-6-astra-looks-ready-to-shake-up-the-game-industry-447578",
+  "title": "GPT-6 Astra looks ready to shake up the game industry.",
+  "source": "beatapi",
+  "prompt": "With a single prompt, I created a survival game set in Turkey and inspired by The Long Dark:",
+  "status": "unknown",
+  "tags": [],
+  "category": "3d-workflow",
+  "author": "Neurobin",
+  "authorLink": "https://x.com/bbfu0382",
+  "source_url": "https://x.com/bbfu0382/status/2095772780692447578",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-looks-ready-to-shake-up-the-game-industry-447578/poster-ba5efac8a1b2.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-looks-ready-to-shake-up-the-game-industry-447578/video-432aee98e6aa.webm",
+  "imageUrl": "https://x.com/bbfu0382/status/2095772780692447578",
+  "created_at": "2026-09-04T07:15:43.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2095772780692447578",
+    "beatapi_slug": "gpt-6-astra-looks-ready-to-shake-up-the-game-industry-447578",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

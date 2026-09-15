@@ -1,0 +1,28 @@
+{
+  "id": "beatapi-agi-is-100-solved-660277",
+  "title": "AGI is 100% solved.",
+  "source": "beatapi",
+  "prompt": "Take control of my computer using GPT-6 Astra and do the following:\n\n1. design a character concept using Higgsfield Soul 2.0,\n\n2. build a textured 3D model of it,\n\n3. import it into Blender,\n\n4. retopologize the mesh,\n\n5. create a UV map,\n\n6. build a character rig,\n\n7. evaluate how production-ready the model is,\n\n8. redo previous steps if you're not satisfied with results,\n\n9. and then turn it into a cartoon using Seedance 2.5 on Higgsfield",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "Higgsfield AI 🧩",
+  "authorLink": "https://x.com/higgsfield_ai",
+  "source_url": "https://x.com/higgsfield_ai/status/2096342420543660277",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/agi-is-100-solved-660277/poster-414e669f3b09.webp",
+  "modelUrl": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/agi-is-100-solved-660277/video-868d8555a801.webm",
+  "imageUrl": "https://x.com/higgsfield_ai/status/2096342420543660277",
+  "created_at": "2026-09-05T20:59:15.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096342420543660277",
+    "beatapi_slug": "agi-is-100-solved-660277",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}

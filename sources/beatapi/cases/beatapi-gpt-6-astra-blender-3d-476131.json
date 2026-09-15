@@ -1,0 +1,27 @@
+{
+  "id": "beatapi-gpt-6-astra-blender-3d-476131",
+  "title": "GPT-6 AstraでBlender 3D制作をおためし中",
+  "source": "beatapi",
+  "prompt": "添付画像を参照し、Blender CLI と Blender MCP を使って、画像のシーンを可能な限り忠実に再現してください。",
+  "status": "unknown",
+  "tags": [],
+  "category": "blender-scenes",
+  "author": "布留川英一 / Hidekazu Furukawa",
+  "authorLink": "https://x.com/npaka123",
+  "source_url": "https://x.com/npaka123/status/2096367013652476131",
+  "upstreamUrl": "https://github.com/BeatAPI/awesome-3d-prompts",
+  "preview_url": "https://media.beatapi.io/prompt-gallery/gpt-6-astra-3d/gpt-6-astra-blender-3d-476131/image-ed4312bfc651.webp",
+  "imageUrl": "https://x.com/npaka123/status/2096367013652476131",
+  "created_at": "2026-09-05T22:36:59.000Z",
+  "attribution": {
+    "name": "BeatAPI awesome-3d-prompts",
+    "url": "https://github.com/BeatAPI/awesome-3d-prompts"
+  },
+  "notes": "Rights status: review-required. Original content retains upstream attribution and license.",
+  "metadata": {
+    "beatapi_id": "astra3d-2096367013652476131",
+    "beatapi_slug": "gpt-6-astra-blender-3d-476131",
+    "schema_version": 1
+  },
+  "model_version": "gpt-6-astra"
+}
