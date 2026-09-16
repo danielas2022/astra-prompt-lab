@@ -219,18 +219,43 @@ function convertToCase(entry) {
 }
 
 /**
+ * 读取现有案例 ID 集合
+ */
+function getExistingCaseIds() {
+  const existingIds = new Set();
+  
+  if (!fs.existsSync(CASES_DIR)) {
+    return existingIds;
+  }
+  
+  const files = fs.readdirSync(CASES_DIR);
+  for (const file of files) {
+    if (file.endsWith('.json')) {
+      const caseId = file.replace('.json', '');
+      existingIds.add(caseId);
+    }
+  }
+  
+  return existingIds;
+}
+
+/**
  * 主函数
  */
 async function main() {
   const args = process.argv.slice(2);
   
-  if (args.length === 0) {
-    console.error('Usage: node ingest_tripo.mjs <path-to-tripo-repo>');
-    console.error('Example: node ingest_tripo.mjs /tmp/tripo-upstream');
+  // 检查是否为增量模式
+  const incrementalMode = args.includes('--incremental');
+  const filteredArgs = args.filter(arg => arg !== '--incremental');
+  
+  if (filteredArgs.length === 0) {
+    console.error('Usage: node ingest_tripo.mjs [--incremental] <path-to-tripo-repo>');
+    console.error('Example: node ingest_tripo.mjs --incremental /tmp/tripo-upstream');
     process.exit(1);
   }
 
-  const tripoRepoPath = args[0];
+  const tripoRepoPath = filteredArgs[0];
   const readmePath = path.join(tripoRepoPath, 'README.md');
 
   // 检查文件是否存在
@@ -241,12 +266,23 @@ async function main() {
 
   console.log('📦 Tripo Ingest Script');
   console.log('======================\n');
+  
+  if (incrementalMode) {
+    console.log('🔄 Running in INCREMENTAL mode\n');
+  }
 
   // 解析 README
   console.log(`Parsing ${readmePath}...`);
   const entries = parseReadme(readmePath);
   
-  console.log(`Found ${entries.length} entries\n`);
+  console.log(`Found ${entries.length} entries in upstream README\n`);
+
+  // 在增量模式下，读取现有案例 ID
+  let existingIds = new Set();
+  if (incrementalMode) {
+    existingIds = getExistingCaseIds();
+    console.log(`Found ${existingIds.size} existing cases in local repository\n`);
+  }
 
   // 确保输出目录存在
   if (!fs.existsSync(CASES_DIR)) {
@@ -255,7 +291,9 @@ async function main() {
 
   // 转换并写入每个 case
   let successCount = 0;
+  let skippedCount = 0;
   let errorCount = 0;
+  const newCaseIds = [];
 
   for (const entry of entries) {
     try {
@@ -263,11 +301,18 @@ async function main() {
       const filename = `${caseData.id}.json`;
       const filepath = path.join(CASES_DIR, filename);
       
+      // 在增量模式下，跳过已存在的案例
+      if (incrementalMode && existingIds.has(caseData.id)) {
+        skippedCount++;
+        continue;
+      }
+      
       fs.writeFileSync(filepath, JSON.stringify(caseData, null, 2) + '\n');
       successCount++;
+      newCaseIds.push(caseData.id);
       
       if (successCount % 20 === 0) {
-        console.log(`Progress: ${successCount}/${entries.length} cases written...`);
+        console.log(`Progress: ${successCount} new cases written...`);
       }
     } catch (error) {
       console.error(`Error processing entry "${entry.title}":`, error.message);
@@ -275,9 +320,17 @@ async function main() {
     }
   }
 
-  console.log(`\n✅ Successfully wrote ${successCount} cases`);
+  console.log(`\n✅ Successfully wrote ${successCount} new cases`);
+  if (incrementalMode && skippedCount > 0) {
+    console.log(`⏭️  Skipped ${skippedCount} existing cases`);
+  }
   if (errorCount > 0) {
     console.log(`⚠️  ${errorCount} errors encountered`);
+  }
+  
+  if (successCount > 0) {
+    console.log(`\n📝 New case IDs:`);
+    newCaseIds.forEach(id => console.log(`   - ${id}`));
   }
 
   // 获取上游仓库的 commit SHA
@@ -299,6 +352,10 @@ async function main() {
 
   // 更新 meta.json
   console.log('\nUpdating meta.json...');
+  
+  // 计算总案例数：在增量模式下是现有 + 新增，否则就是新写入的数量
+  const totalCases = incrementalMode ? existingIds.size + successCount : successCount;
+  
   const meta = {
     source: 'tripo',
     name: 'TripoGrowthLab awesome-astra-prompts',
@@ -306,7 +363,7 @@ async function main() {
     description: 'Community-curated growth list (NOT product-official)',
     cadence: 'daily',
     lastSync: new Date().toISOString(),
-    totalCases: successCount,
+    totalCases: totalCases,
     status: 'synced',
     upstream: {
       commit: upstreamCommit,
@@ -319,7 +376,12 @@ async function main() {
   console.log('✅ meta.json updated');
 
   console.log('\n🎉 Tripo ingest complete!');
-  console.log(`   Total cases: ${successCount}`);
+  if (incrementalMode) {
+    console.log(`   New cases added: ${successCount}`);
+    console.log(`   Total cases now: ${totalCases}`);
+  } else {
+    console.log(`   Total cases: ${successCount}`);
+  }
   console.log(`   Output directory: ${CASES_DIR}`);
 }
 
